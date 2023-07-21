@@ -1,0 +1,9405 @@
+Sentence #,Word,Tag
+Sentence: 0,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Nîmes,B-geoE
+Sentence: 1,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Dreux,B-geoE
+Sentence: 2,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Orléans,B-geoE
+Sentence: 3,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Valence,B-geoE
+Sentence: 4,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bayonne,B-geoE
+Sentence: 5,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 6,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 7,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 8,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 9,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,La Rochelle,B-geoE
+Sentence: 10,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bordeaux,B-geoE
+Sentence: 11,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 12,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Lima,B-geoE
+Sentence: 13,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Valence,B-geoE
+Sentence: 14,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,La Possession,B-geoE
+Sentence: 15,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 16,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Washington,B-geoE
+Sentence: 17,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Caen,B-geoE
+Sentence: 18,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bandol,B-geoE
+Sentence: 19,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Saint-Paul,B-geoE
+Sentence: 20,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Saint-Denis,B-geoE
+Sentence: 21,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Sète,B-geoE
+Sentence: 22,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Avignon,B-geoE
+Sentence: 23,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Saint-Etienne,B-geoE
+Sentence: 24,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Lyon,B-geoE
+Sentence: 25,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Puteaux,B-geoE
+Sentence: 26,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Boulogne-Billancourt,B-geoE
+Sentence: 27,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Annemasse,B-geoE
+Sentence: 28,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Istanbul,B-geoE
+Sentence: 29,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Caen,B-geoE
+Sentence: 30,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Washington,B-geoE
+Sentence: 31,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Ales,B-geoE
+Sentence: 32,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Lyon,B-geoE
+Sentence: 33,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bagneux,B-geoE
+Sentence: 34,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Sète,B-geoE
+Sentence: 35,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Stockholm,B-geoE
+Sentence: 36,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Athenes,B-geoE
+Sentence: 37,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Auckland,B-geoE
+Sentence: 38,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Thonon-les-Bains,B-geoE
+Sentence: 39,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 40,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Annecy,B-geoE
+Sentence: 41,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Vannes,B-geoE
+Sentence: 42,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 43,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Lille,B-geoE
+Sentence: 44,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Vannes,B-geoE
+Sentence: 45,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 46,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Argenteuil,B-geoE
+Sentence: 47,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Beziers,B-geoE
+Sentence: 48,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Sartrouville,B-geoE
+Sentence: 49,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Issy-les-Moulineaux,B-geoE
+Sentence: 50,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Aix-en-Provence,B-geoE
+Sentence: 51,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Aubervilliers,B-geoE
+Sentence: 52,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bordeaux,B-geoE
+Sentence: 53,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Wuhan,B-geoE
+Sentence: 54,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Arles,B-geoE
+Sentence: 55,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bagneux,B-geoE
+Sentence: 56,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Béziers,B-geoE
+Sentence: 57,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Vitry-sur-Seine,B-geoE
+Sentence: 58,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 59,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 60,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Vatican,B-geoE
+Sentence: 61,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Épinay-sur-Seine,B-geoE
+Sentence: 62,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Zurich,B-geoE
+Sentence: 63,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 64,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Troyes,B-geoE
+Sentence: 65,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Annemasse,B-geoE
+Sentence: 66,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 67,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+Sentence: 68,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Rouen,B-geoE
+Sentence: 69,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Haguenau,B-geoE
+Sentence: 70,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 71,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 72,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Arles,B-geoE
+Sentence: 73,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bangalore,B-geoE
+Sentence: 74,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Cotonou,B-geoE
+Sentence: 75,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 76,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Abbeville,B-geoE
+Sentence: 77,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Rouen,B-geoE
+Sentence: 78,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Arras,B-geoE
+Sentence: 79,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Zurich,B-geoE
+Sentence: 80,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bondy,B-geoE
+Sentence: 81,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Nantes,B-geoE
+Sentence: 82,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Rennes,B-geoE
+Sentence: 83,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bandol,B-geoE
+Sentence: 84,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Maisons-Alfort,B-geoE
+Sentence: 85,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Sartrouville,B-geoE
+Sentence: 86,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Saint-Etienne,B-geoE
+Sentence: 87,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Châteauroux,B-geoE
+Sentence: 88,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bobigny,B-geoE
+Sentence: 89,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 90,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bergerac,B-geoE
+Sentence: 91,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Bayonne,B-geoE
+Sentence: 92,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 93,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Istres,B-geoE
+Sentence: 94,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Perpignan,B-geoE
+Sentence: 95,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Toulon,B-geoE
+Sentence: 96,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Athenes,B-geoE
+Sentence: 97,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 98,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Wuhan,B-geoE
+Sentence: 99,Je,O
+,voudrais,O
+,aller,O
+,a,O
+,Pekin,B-geoE
+Sentence: 100,Ou,O
+,se,O
+,trouve,O
+,Quimper,B-geoE
+Sentence: 101,Ou,O
+,se,O
+,trouve,O
+,Montreuil,B-geoE
+Sentence: 102,Ou,O
+,se,O
+,trouve,O
+,Toulouse,B-geoE
+Sentence: 103,Ou,O
+,se,O
+,trouve,O
+,Nîmes,B-geoE
+Sentence: 104,Ou,O
+,se,O
+,trouve,O
+,Nîmes,B-geoE
+Sentence: 105,Ou,O
+,se,O
+,trouve,O
+,Beziers,B-geoE
+Sentence: 106,Ou,O
+,se,O
+,trouve,O
+,Angoulême,B-geoE
+Sentence: 107,Ou,O
+,se,O
+,trouve,O
+,Villeneuve-d'Ascq,B-geoE
+Sentence: 108,Ou,O
+,se,O
+,trouve,O
+,Toulouse,B-geoE
+Sentence: 109,Ou,O
+,se,O
+,trouve,O
+,Allonnes,B-geoE
+Sentence: 110,Ou,O
+,se,O
+,trouve,O
+,Madrid,B-geoE
+Sentence: 111,Ou,O
+,se,O
+,trouve,O
+,Ajaccio,B-geoE
+Sentence: 112,Ou,O
+,se,O
+,trouve,O
+,Albi,B-geoE
+Sentence: 113,Ou,O
+,se,O
+,trouve,O
+,Sydney,B-geoE
+Sentence: 114,Ou,O
+,se,O
+,trouve,O
+,Villeneuve-Saint-Georges,B-geoE
+Sentence: 115,Ou,O
+,se,O
+,trouve,O
+,Madrid,B-geoE
+Sentence: 116,Ou,O
+,se,O
+,trouve,O
+,Saint-Denis,B-geoE
+Sentence: 117,Ou,O
+,se,O
+,trouve,O
+,Béziers,B-geoE
+Sentence: 118,Ou,O
+,se,O
+,trouve,O
+,Toronto,B-geoE
+Sentence: 119,Ou,O
+,se,O
+,trouve,O
+,Béthune,B-geoE
+Sentence: 120,Ou,O
+,se,O
+,trouve,O
+,Montpellier,B-geoE
+Sentence: 121,Ou,O
+,se,O
+,trouve,O
+,Auckland,B-geoE
+Sentence: 122,Ou,O
+,se,O
+,trouve,O
+,Limoges,B-geoE
+Sentence: 123,Ou,O
+,se,O
+,trouve,O
+,Saint-Maur-des-Fossés,B-geoE
+Sentence: 124,Ou,O
+,se,O
+,trouve,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 125,Ou,O
+,se,O
+,trouve,O
+,Mulhouse,B-geoE
+Sentence: 126,Ou,O
+,se,O
+,trouve,O
+,Singapour,B-geoE
+Sentence: 127,Ou,O
+,se,O
+,trouve,O
+,Istanbul,B-geoE
+Sentence: 128,Ou,O
+,se,O
+,trouve,O
+,Haguenau,B-geoE
+Sentence: 129,Ou,O
+,se,O
+,trouve,O
+,Nancy,B-geoE
+Sentence: 130,Ou,O
+,se,O
+,trouve,O
+,Annemasse,B-geoE
+Sentence: 131,Ou,O
+,se,O
+,trouve,O
+,Annecy,B-geoE
+Sentence: 132,Ou,O
+,se,O
+,trouve,O
+,Delhi,B-geoE
+Sentence: 133,Ou,O
+,se,O
+,trouve,O
+,Nîmes,B-geoE
+Sentence: 134,Ou,O
+,se,O
+,trouve,O
+,Oslo,B-geoE
+Sentence: 135,Ou,O
+,se,O
+,trouve,O
+,Beziers,B-geoE
+Sentence: 136,Ou,O
+,se,O
+,trouve,O
+,Toulon,B-geoE
+Sentence: 137,Ou,O
+,se,O
+,trouve,O
+,Angers,B-geoE
+Sentence: 138,Ou,O
+,se,O
+,trouve,O
+,Toulon,B-geoE
+Sentence: 139,Ou,O
+,se,O
+,trouve,O
+,Antibes,B-geoE
+Sentence: 140,Ou,O
+,se,O
+,trouve,O
+,Yerres,B-geoE
+Sentence: 141,Ou,O
+,se,O
+,trouve,O
+,Montpellier,B-geoE
+Sentence: 142,Ou,O
+,se,O
+,trouve,O
+,Angers,B-geoE
+Sentence: 143,Ou,O
+,se,O
+,trouve,O
+,Lille,B-geoE
+Sentence: 144,Ou,O
+,se,O
+,trouve,O
+,Madrid,B-geoE
+Sentence: 145,Ou,O
+,se,O
+,trouve,O
+,Bangalore,B-geoE
+Sentence: 146,Ou,O
+,se,O
+,trouve,O
+,Madrid,B-geoE
+Sentence: 147,Ou,O
+,se,O
+,trouve,O
+,Amiens,B-geoE
+Sentence: 148,Ou,O
+,se,O
+,trouve,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 149,Ou,O
+,se,O
+,trouve,O
+,Autun,B-geoE
+Sentence: 150,Ou,O
+,se,O
+,trouve,O
+,Colombes,B-geoE
+Sentence: 151,Ou,O
+,se,O
+,trouve,O
+,Dreux,B-geoE
+Sentence: 152,Ou,O
+,se,O
+,trouve,O
+,Istres,B-geoE
+Sentence: 153,Ou,O
+,se,O
+,trouve,O
+,Haguenau,B-geoE
+Sentence: 154,Ou,O
+,se,O
+,trouve,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 155,Ou,O
+,se,O
+,trouve,O
+,Annecy,B-geoE
+Sentence: 156,Ou,O
+,se,O
+,trouve,O
+,Bagneux,B-geoE
+Sentence: 157,Ou,O
+,se,O
+,trouve,O
+,Belfort,B-geoE
+Sentence: 158,Ou,O
+,se,O
+,trouve,O
+,Mérignac,B-geoE
+Sentence: 159,Ou,O
+,se,O
+,trouve,O
+,Zurich,B-geoE
+Sentence: 160,Ou,O
+,se,O
+,trouve,O
+,Ales,B-geoE
+Sentence: 161,Ou,O
+,se,O
+,trouve,O
+,Reims,B-geoE
+Sentence: 162,Ou,O
+,se,O
+,trouve,O
+,Belfort,B-geoE
+Sentence: 163,Ou,O
+,se,O
+,trouve,O
+,Puteaux,B-geoE
+Sentence: 164,Ou,O
+,se,O
+,trouve,O
+,Washington,B-geoE
+Sentence: 165,Ou,O
+,se,O
+,trouve,O
+,Tourcoing,B-geoE
+Sentence: 166,Ou,O
+,se,O
+,trouve,O
+,Blois,B-geoE
+Sentence: 167,Ou,O
+,se,O
+,trouve,O
+,Nîmes,B-geoE
+Sentence: 168,Ou,O
+,se,O
+,trouve,O
+,Dunkerque,B-geoE
+Sentence: 169,Ou,O
+,se,O
+,trouve,O
+,Lille,B-geoE
+Sentence: 170,Ou,O
+,se,O
+,trouve,O
+,Wuhan,B-geoE
+Sentence: 171,Ou,O
+,se,O
+,trouve,O
+,Valence,B-geoE
+Sentence: 172,Ou,O
+,se,O
+,trouve,O
+,Dijon,B-geoE
+Sentence: 173,Ou,O
+,se,O
+,trouve,O
+,Marseille,B-geoE
+Sentence: 174,Ou,O
+,se,O
+,trouve,O
+,Lyon,B-geoE
+Sentence: 175,Ou,O
+,se,O
+,trouve,O
+,Meaux,B-geoE
+Sentence: 176,Ou,O
+,se,O
+,trouve,O
+,Beziers,B-geoE
+Sentence: 177,Ou,O
+,se,O
+,trouve,O
+,Oslo,B-geoE
+Sentence: 178,Ou,O
+,se,O
+,trouve,O
+,Blois,B-geoE
+Sentence: 179,Ou,O
+,se,O
+,trouve,O
+,Angoulême,B-geoE
+Sentence: 180,Ou,O
+,se,O
+,trouve,O
+,Zurich,B-geoE
+Sentence: 181,Ou,O
+,se,O
+,trouve,O
+,Poitiers,B-geoE
+Sentence: 182,Ou,O
+,se,O
+,trouve,O
+,Vatican,B-geoE
+Sentence: 183,Ou,O
+,se,O
+,trouve,O
+,Arles,B-geoE
+Sentence: 184,Ou,O
+,se,O
+,trouve,O
+,Delhi,B-geoE
+Sentence: 185,Ou,O
+,se,O
+,trouve,O
+,Toulon,B-geoE
+Sentence: 186,Ou,O
+,se,O
+,trouve,O
+,Vannes,B-geoE
+Sentence: 187,Ou,O
+,se,O
+,trouve,O
+,Villeurbanne,B-geoE
+Sentence: 188,Ou,O
+,se,O
+,trouve,O
+,Sète,B-geoE
+Sentence: 189,Ou,O
+,se,O
+,trouve,O
+,Aubervilliers,B-geoE
+Sentence: 190,Ou,O
+,se,O
+,trouve,O
+,Villeurbanne,B-geoE
+Sentence: 191,Ou,O
+,se,O
+,trouve,O
+,Beauvais,B-geoE
+Sentence: 192,Ou,O
+,se,O
+,trouve,O
+,Shanghai,B-geoE
+Sentence: 193,Ou,O
+,se,O
+,trouve,O
+,Béthune,B-geoE
+Sentence: 194,Ou,O
+,se,O
+,trouve,O
+,Neuilly-sur-Seine,B-geoE
+Sentence: 195,Ou,O
+,se,O
+,trouve,O
+,Oslo,B-geoE
+Sentence: 196,Ou,O
+,se,O
+,trouve,O
+,Chicago,B-geoE
+Sentence: 197,Ou,O
+,se,O
+,trouve,O
+,Villeurbanne,B-geoE
+Sentence: 198,Ou,O
+,se,O
+,trouve,O
+,Rome,B-geoE
+Sentence: 199,Ou,O
+,se,O
+,trouve,O
+,Strasbourg,B-geoE
+Sentence: 200,Hugo,O
+,reside,O
+,sur,O
+,Asnières-sur-Seine,O
+Sentence: 201,Hugo,O
+,reside,O
+,sur,O
+,Angoulême,O
+Sentence: 202,Hugo,O
+,reside,O
+,sur,O
+,Thonon-les-Bains,O
+Sentence: 203,Hugo,O
+,reside,O
+,sur,O
+,Athenes,O
+Sentence: 204,Hugo,O
+,reside,O
+,sur,O
+,Lorient,O
+Sentence: 205,Hugo,O
+,reside,O
+,sur,O
+,Montpellier,O
+Sentence: 206,Hugo,O
+,reside,O
+,sur,O
+,Colombes,O
+Sentence: 207,Hugo,O
+,reside,O
+,sur,O
+,Angers,O
+Sentence: 208,Hugo,O
+,reside,O
+,sur,O
+,Stockholm,O
+Sentence: 209,Hugo,O
+,reside,O
+,sur,O
+,Charleville-Mézières,O
+Sentence: 210,Hugo,O
+,reside,O
+,sur,O
+,Delhi,O
+Sentence: 211,Hugo,O
+,reside,O
+,sur,O
+,Annemasse,O
+Sentence: 212,Hugo,O
+,reside,O
+,sur,O
+,Rennes,O
+Sentence: 213,Hugo,O
+,reside,O
+,sur,O
+,Aubervilliers,O
+Sentence: 214,Hugo,O
+,reside,O
+,sur,O
+,Nantes,O
+Sentence: 215,Hugo,O
+,reside,O
+,sur,O
+,Moulins,O
+Sentence: 216,Hugo,O
+,reside,O
+,sur,O
+,Nice,O
+Sentence: 217,Hugo,O
+,reside,O
+,sur,O
+,Metz,O
+Sentence: 218,Hugo,O
+,reside,O
+,sur,O
+,Grenoble,O
+Sentence: 219,Hugo,O
+,reside,O
+,sur,O
+,Angers,O
+Sentence: 220,Hugo,O
+,reside,O
+,sur,O
+,Beziers,O
+Sentence: 221,Hugo,O
+,reside,O
+,sur,O
+,Amiens,O
+Sentence: 222,Hugo,O
+,reside,O
+,sur,O
+,Orléans,O
+Sentence: 223,Hugo,O
+,reside,O
+,sur,O
+,Angers,O
+Sentence: 224,Hugo,O
+,reside,O
+,sur,O
+,Annecy,O
+Sentence: 225,Hugo,O
+,reside,O
+,sur,O
+,Dublin,O
+Sentence: 226,Hugo,O
+,reside,O
+,sur,O
+,Bordeaux,O
+Sentence: 227,Hugo,O
+,reside,O
+,sur,O
+,Aulnay-sous-Bois,O
+Sentence: 228,Hugo,O
+,reside,O
+,sur,O
+,Dijon,O
+Sentence: 229,Hugo,O
+,reside,O
+,sur,O
+,Épinay-sur-Seine,O
+Sentence: 230,Hugo,O
+,reside,O
+,sur,O
+,Moulins,O
+Sentence: 231,Hugo,O
+,reside,O
+,sur,O
+,Saint-Etienne,O
+Sentence: 232,Hugo,O
+,reside,O
+,sur,O
+,Grenoble,O
+Sentence: 233,Hugo,O
+,reside,O
+,sur,O
+,Issy-les-Moulineaux,O
+Sentence: 234,Hugo,O
+,reside,O
+,sur,O
+,Cotonou,O
+Sentence: 235,Hugo,O
+,reside,O
+,sur,O
+,Blois,O
+Sentence: 236,Hugo,O
+,reside,O
+,sur,O
+,Béthune,O
+Sentence: 237,Hugo,O
+,reside,O
+,sur,O
+,Roubaix,O
+Sentence: 238,Hugo,O
+,reside,O
+,sur,O
+,Thonon-les-Bains,O
+Sentence: 239,Hugo,O
+,reside,O
+,sur,O
+,Avignon,O
+Sentence: 240,Hugo,O
+,reside,O
+,sur,O
+,Clermont-Ferrand,O
+Sentence: 241,Hugo,O
+,reside,O
+,sur,O
+,Angoulême,O
+Sentence: 242,Hugo,O
+,reside,O
+,sur,O
+,Sydney,O
+Sentence: 243,Hugo,O
+,reside,O
+,sur,O
+,Jakarta,O
+Sentence: 244,Hugo,O
+,reside,O
+,sur,O
+,Bagnolet,O
+Sentence: 245,Hugo,O
+,reside,O
+,sur,O
+,Bastia,O
+Sentence: 246,Hugo,O
+,reside,O
+,sur,O
+,Annecy,O
+Sentence: 247,Hugo,O
+,reside,O
+,sur,O
+,Puteaux,O
+Sentence: 248,Hugo,O
+,reside,O
+,sur,O
+,Boulogne-Billancourt,O
+Sentence: 249,Hugo,O
+,reside,O
+,sur,O
+,Grenoble,O
+Sentence: 250,Hugo,O
+,reside,O
+,sur,O
+,Mérignac,O
+Sentence: 251,Hugo,O
+,reside,O
+,sur,O
+,Vatican,O
+Sentence: 252,Hugo,O
+,reside,O
+,sur,O
+,Colmar,O
+Sentence: 253,Hugo,O
+,reside,O
+,sur,O
+,Grenoble,O
+Sentence: 254,Hugo,O
+,reside,O
+,sur,O
+,Vatican,O
+Sentence: 255,Hugo,O
+,reside,O
+,sur,O
+,Moulins,O
+Sentence: 256,Hugo,O
+,reside,O
+,sur,O
+,Wuhan,O
+Sentence: 257,Hugo,O
+,reside,O
+,sur,O
+,Brive-la-Gaillarde,O
+Sentence: 258,Hugo,O
+,reside,O
+,sur,O
+,Gagny,O
+Sentence: 259,Hugo,O
+,reside,O
+,sur,O
+,Champigny-sur-Marne,O
+Sentence: 260,Hugo,O
+,reside,O
+,sur,O
+,Clermont-Ferrand,O
+Sentence: 261,Hugo,O
+,reside,O
+,sur,O
+,Saint-Denis,O
+Sentence: 262,Hugo,O
+,reside,O
+,sur,O
+,Paris,O
+Sentence: 263,Hugo,O
+,reside,O
+,sur,O
+,Villeurbanne,O
+Sentence: 264,Hugo,O
+,reside,O
+,sur,O
+,Antibes,O
+Sentence: 265,Hugo,O
+,reside,O
+,sur,O
+,Abbeville,O
+Sentence: 266,Hugo,O
+,reside,O
+,sur,O
+,Londres,O
+Sentence: 267,Hugo,O
+,reside,O
+,sur,O
+,Fréjus,O
+Sentence: 268,Hugo,O
+,reside,O
+,sur,O
+,Toulouse,O
+Sentence: 269,Hugo,O
+,reside,O
+,sur,O
+,Nantes,O
+Sentence: 270,Hugo,O
+,reside,O
+,sur,O
+,Chicago,O
+Sentence: 271,Hugo,O
+,reside,O
+,sur,O
+,Beauvais,O
+Sentence: 272,Hugo,O
+,reside,O
+,sur,O
+,Yerres,O
+Sentence: 273,Hugo,O
+,reside,O
+,sur,O
+,Brest,O
+Sentence: 274,Hugo,O
+,reside,O
+,sur,O
+,Yerres,O
+Sentence: 275,Hugo,O
+,reside,O
+,sur,O
+,Boulogne-Billancourt,O
+Sentence: 276,Hugo,O
+,reside,O
+,sur,O
+,Rome,O
+Sentence: 277,Hugo,O
+,reside,O
+,sur,O
+,Meaux,O
+Sentence: 278,Hugo,O
+,reside,O
+,sur,O
+,Angoulême,O
+Sentence: 279,Hugo,O
+,reside,O
+,sur,O
+,Rennes,O
+Sentence: 280,Hugo,O
+,reside,O
+,sur,O
+,Meaux,O
+Sentence: 281,Hugo,O
+,reside,O
+,sur,O
+,Toulon,O
+Sentence: 282,Hugo,O
+,reside,O
+,sur,O
+,Arles,O
+Sentence: 283,Hugo,O
+,reside,O
+,sur,O
+,Clermont-Ferrand,O
+Sentence: 284,Hugo,O
+,reside,O
+,sur,O
+,Colmar,O
+Sentence: 285,Hugo,O
+,reside,O
+,sur,O
+,Grenoble,O
+Sentence: 286,Hugo,O
+,reside,O
+,sur,O
+,Dreux,O
+Sentence: 287,Hugo,O
+,reside,O
+,sur,O
+,Orléans,O
+Sentence: 288,Hugo,O
+,reside,O
+,sur,O
+,Rouen,O
+Sentence: 289,Hugo,O
+,reside,O
+,sur,O
+,Argenteuil,O
+Sentence: 290,Hugo,O
+,reside,O
+,sur,O
+,Pau,O
+Sentence: 291,Hugo,O
+,reside,O
+,sur,O
+,Auch,O
+Sentence: 292,Hugo,O
+,reside,O
+,sur,O
+,Tokyo,O
+Sentence: 293,Hugo,O
+,reside,O
+,sur,O
+,Yerres,O
+Sentence: 294,Hugo,O
+,reside,O
+,sur,O
+,Châteauroux,O
+Sentence: 295,Hugo,O
+,reside,O
+,sur,O
+,Autun,O
+Sentence: 296,Hugo,O
+,reside,O
+,sur,O
+,Issy-les-Moulineaux,O
+Sentence: 297,Hugo,O
+,reside,O
+,sur,O
+,Montpellier,O
+Sentence: 298,Hugo,O
+,reside,O
+,sur,O
+,Bayonne,O
+Sentence: 299,Hugo,O
+,reside,O
+,sur,O
+,Angers,O
+Sentence: 300,Emmene,O
+,moi,O
+,a,O
+,Angoulême,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 301,Emmene,O
+,moi,O
+,a,O
+,Singapour,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 302,Emmene,O
+,moi,O
+,a,O
+,Rouen,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 303,Emmene,O
+,moi,O
+,a,O
+,Dunkerque,B-geoE
+,depuis,O
+,Charleville-Mézières,B-geoS
+Sentence: 304,Emmene,O
+,moi,O
+,a,O
+,Perpignan,B-geoE
+,depuis,O
+,Mérignac,B-geoS
+Sentence: 305,Emmene,O
+,moi,O
+,a,O
+,Brest,B-geoE
+,depuis,O
+,Toronto,B-geoS
+Sentence: 306,Emmene,O
+,moi,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 307,Emmene,O
+,moi,O
+,a,O
+,Angers,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 308,Emmene,O
+,moi,O
+,a,O
+,Béthune,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 309,Emmene,O
+,moi,O
+,a,O
+,Singapour,B-geoE
+,depuis,O
+,Tokyo,B-geoS
+Sentence: 310,Emmene,O
+,moi,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 311,Emmene,O
+,moi,O
+,a,O
+,Alfortville,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 312,Emmene,O
+,moi,O
+,a,O
+,Dijon,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 313,Emmene,O
+,moi,O
+,a,O
+,Ales,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 314,Emmene,O
+,moi,O
+,a,O
+,Rambouillet,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 315,Emmene,O
+,moi,O
+,a,O
+,Pau,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 316,Emmene,O
+,moi,O
+,a,O
+,Argenteuil,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 317,Emmene,O
+,moi,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 318,Emmene,O
+,moi,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 319,Emmene,O
+,moi,O
+,a,O
+,Villeneuve-d'Ascq,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 320,Emmene,O
+,moi,O
+,a,O
+,Blois,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 321,Emmene,O
+,moi,O
+,a,O
+,Rome,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 322,Emmene,O
+,moi,O
+,a,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 323,Emmene,O
+,moi,O
+,a,O
+,Bondy,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 324,Emmene,O
+,moi,O
+,a,O
+,Rambouillet,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 325,Emmene,O
+,moi,O
+,a,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 326,Emmene,O
+,moi,O
+,a,O
+,Troyes,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 327,Emmene,O
+,moi,O
+,a,O
+,Lille,B-geoE
+,depuis,O
+,Antibes,B-geoS
+Sentence: 328,Emmene,O
+,moi,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 329,Emmene,O
+,moi,O
+,a,O
+,Besançon,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 330,Emmene,O
+,moi,O
+,a,O
+,Amsterdam,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 331,Emmene,O
+,moi,O
+,a,O
+,Tokyo,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 332,Emmene,O
+,moi,O
+,a,O
+,Ales,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 333,Emmene,O
+,moi,O
+,a,O
+,Arles,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 334,Emmene,O
+,moi,O
+,a,O
+,Grenoble,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 335,Emmene,O
+,moi,O
+,a,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 336,Emmene,O
+,moi,O
+,a,O
+,Brest,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 337,Emmene,O
+,moi,O
+,a,O
+,Stockholm,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 338,Emmene,O
+,moi,O
+,a,O
+,Angoulême,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 339,Emmene,O
+,moi,O
+,a,O
+,Abbeville,B-geoE
+,depuis,O
+,Quimper,B-geoS
+Sentence: 340,Emmene,O
+,moi,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 341,Emmene,O
+,moi,O
+,a,O
+,Mérignac,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 342,Emmene,O
+,moi,O
+,a,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 343,Emmene,O
+,moi,O
+,a,O
+,Orléans,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 344,Emmene,O
+,moi,O
+,a,O
+,Limoges,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 345,Emmene,O
+,moi,O
+,a,O
+,Nantes,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 346,Emmene,O
+,moi,O
+,a,O
+,Grenoble,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 347,Emmene,O
+,moi,O
+,a,O
+,Washington,B-geoE
+,depuis,O
+,Sydney,B-geoS
+Sentence: 348,Emmene,O
+,moi,O
+,a,O
+,Meaux,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 349,Emmene,O
+,moi,O
+,a,O
+,Barcelone,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 350,Emmene,O
+,moi,O
+,a,O
+,Rennes,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 351,Emmene,O
+,moi,O
+,a,O
+,Lima,B-geoE
+,depuis,O
+,Colombes,B-geoS
+Sentence: 352,Emmene,O
+,moi,O
+,a,O
+,Allonnes,B-geoE
+,depuis,O
+,Tourcoing,B-geoS
+Sentence: 353,Emmene,O
+,moi,O
+,a,O
+,Paris,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 354,Emmene,O
+,moi,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Beauvais,B-geoS
+Sentence: 355,Emmene,O
+,moi,O
+,a,O
+,Poitiers,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 356,Emmene,O
+,moi,O
+,a,O
+,Marseille,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 357,Emmene,O
+,moi,O
+,a,O
+,Orléans,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 358,Emmene,O
+,moi,O
+,a,O
+,Reims,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 359,Emmene,O
+,moi,O
+,a,O
+,Tokyo,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 360,Emmene,O
+,moi,O
+,a,O
+,Angers,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 361,Emmene,O
+,moi,O
+,a,O
+,Meaux,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 362,Emmene,O
+,moi,O
+,a,O
+,Bagneux,B-geoE
+,depuis,O
+,Tokyo,B-geoS
+Sentence: 363,Emmene,O
+,moi,O
+,a,O
+,Lille,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 364,Emmene,O
+,moi,O
+,a,O
+,Sydney,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 365,Emmene,O
+,moi,O
+,a,O
+,Rouen,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 366,Emmene,O
+,moi,O
+,a,O
+,Pau,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 367,Emmene,O
+,moi,O
+,a,O
+,Brest,B-geoE
+,depuis,O
+,Charleville-Mézières,B-geoS
+Sentence: 368,Emmene,O
+,moi,O
+,a,O
+,Béthune,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 369,Emmene,O
+,moi,O
+,a,O
+,Reims,B-geoE
+,depuis,O
+,Toronto,B-geoS
+Sentence: 370,Emmene,O
+,moi,O
+,a,O
+,Zurich,B-geoE
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 371,Emmene,O
+,moi,O
+,a,O
+,Moulins,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 372,Emmene,O
+,moi,O
+,a,O
+,Avignon,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 373,Emmene,O
+,moi,O
+,a,O
+,Créteil,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 374,Emmene,O
+,moi,O
+,a,O
+,Alfortville,B-geoE
+,depuis,O
+,Mulhouse,B-geoS
+Sentence: 375,Emmene,O
+,moi,O
+,a,O
+,Blois,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 376,Emmene,O
+,moi,O
+,a,O
+,Rambouillet,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 377,Emmene,O
+,moi,O
+,a,O
+,Rambouillet,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 378,Emmene,O
+,moi,O
+,a,O
+,Wuhan,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 379,Emmene,O
+,moi,O
+,a,O
+,Roubaix,B-geoE
+,depuis,O
+,Jakarta,B-geoS
+Sentence: 380,Emmene,O
+,moi,O
+,a,O
+,Pau,B-geoE
+,depuis,O
+,Meaux,B-geoS
+Sentence: 381,Emmene,O
+,moi,O
+,a,O
+,Belfort,B-geoE
+,depuis,O
+,Shanghai,B-geoS
+Sentence: 382,Emmene,O
+,moi,O
+,a,O
+,Vatican,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 383,Emmene,O
+,moi,O
+,a,O
+,Valence,B-geoE
+,depuis,O
+,Toulon,B-geoS
+Sentence: 384,Emmene,O
+,moi,O
+,a,O
+,Colombes,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 385,Emmene,O
+,moi,O
+,a,O
+,Istanbul,B-geoE
+,depuis,O
+,Toronto,B-geoS
+Sentence: 386,Emmene,O
+,moi,O
+,a,O
+,Abbeville,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 387,Emmene,O
+,moi,O
+,a,O
+,Béziers,B-geoE
+,depuis,O
+,Beauvais,B-geoS
+Sentence: 388,Emmene,O
+,moi,O
+,a,O
+,Bagnolet,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 389,Emmene,O
+,moi,O
+,a,O
+,Rennes,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 390,Emmene,O
+,moi,O
+,a,O
+,Toulon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 391,Emmene,O
+,moi,O
+,a,O
+,Moscou,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 392,Emmene,O
+,moi,O
+,a,O
+,Athenes,B-geoE
+,depuis,O
+,Autun,B-geoS
+Sentence: 393,Emmene,O
+,moi,O
+,a,O
+,Dreux,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 394,Emmene,O
+,moi,O
+,a,O
+,Béthune,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 395,Emmene,O
+,moi,O
+,a,O
+,Allonnes,B-geoE
+,depuis,O
+,Athenes,B-geoS
+Sentence: 396,Emmene,O
+,moi,O
+,a,O
+,Sydney,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 397,Emmene,O
+,moi,O
+,a,O
+,Marseille,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 398,Emmene,O
+,moi,O
+,a,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 399,Emmene,O
+,moi,O
+,a,O
+,Ajaccio,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 400,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bayonne,B-geoE
+Sentence: 401,Je,O
+,veux,O
+,partir,O
+,a,O
+,Istanbul,B-geoE
+Sentence: 402,Je,O
+,veux,O
+,partir,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 403,Je,O
+,veux,O
+,partir,O
+,a,O
+,Barcelone,B-geoE
+Sentence: 404,Je,O
+,veux,O
+,partir,O
+,a,O
+,Aix-en-Provence,B-geoE
+Sentence: 405,Je,O
+,veux,O
+,partir,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 406,Je,O
+,veux,O
+,partir,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 407,Je,O
+,veux,O
+,partir,O
+,a,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 408,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bandol,B-geoE
+Sentence: 409,Je,O
+,veux,O
+,partir,O
+,a,O
+,Saint-Paul,B-geoE
+Sentence: 410,Je,O
+,veux,O
+,partir,O
+,a,O
+,Paris,B-geoE
+Sentence: 411,Je,O
+,veux,O
+,partir,O
+,a,O
+,Chicago,B-geoE
+Sentence: 412,Je,O
+,veux,O
+,partir,O
+,a,O
+,Mérignac,B-geoE
+Sentence: 413,Je,O
+,veux,O
+,partir,O
+,a,O
+,Le Havre,B-geoE
+Sentence: 414,Je,O
+,veux,O
+,partir,O
+,a,O
+,Béziers,B-geoE
+Sentence: 415,Je,O
+,veux,O
+,partir,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 416,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bagneux,B-geoE
+Sentence: 417,Je,O
+,veux,O
+,partir,O
+,a,O
+,Allonnes,B-geoE
+Sentence: 418,Je,O
+,veux,O
+,partir,O
+,a,O
+,Albi,B-geoE
+Sentence: 419,Je,O
+,veux,O
+,partir,O
+,a,O
+,Villeneuve-d'Ascq,B-geoE
+Sentence: 420,Je,O
+,veux,O
+,partir,O
+,a,O
+,Ajaccio,B-geoE
+Sentence: 421,Je,O
+,veux,O
+,partir,O
+,a,O
+,Alpes-Maritimes,B-geoE
+Sentence: 422,Je,O
+,veux,O
+,partir,O
+,a,O
+,Nanterre,B-geoE
+Sentence: 423,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bastia,B-geoE
+Sentence: 424,Je,O
+,veux,O
+,partir,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 425,Je,O
+,veux,O
+,partir,O
+,a,O
+,Barcelone,B-geoE
+Sentence: 426,Je,O
+,veux,O
+,partir,O
+,a,O
+,Lima,B-geoE
+Sentence: 427,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bandol,B-geoE
+Sentence: 428,Je,O
+,veux,O
+,partir,O
+,a,O
+,Annemasse,B-geoE
+Sentence: 429,Je,O
+,veux,O
+,partir,O
+,a,O
+,Puteaux,B-geoE
+Sentence: 430,Je,O
+,veux,O
+,partir,O
+,a,O
+,Meaux,B-geoE
+Sentence: 431,Je,O
+,veux,O
+,partir,O
+,a,O
+,Tokyo,B-geoE
+Sentence: 432,Je,O
+,veux,O
+,partir,O
+,a,O
+,Berlin,B-geoE
+Sentence: 433,Je,O
+,veux,O
+,partir,O
+,a,O
+,Moscou,B-geoE
+Sentence: 434,Je,O
+,veux,O
+,partir,O
+,a,O
+,Orléans,B-geoE
+Sentence: 435,Je,O
+,veux,O
+,partir,O
+,a,O
+,Rouen,B-geoE
+Sentence: 436,Je,O
+,veux,O
+,partir,O
+,a,O
+,Calais,B-geoE
+Sentence: 437,Je,O
+,veux,O
+,partir,O
+,a,O
+,Béthune,B-geoE
+Sentence: 438,Je,O
+,veux,O
+,partir,O
+,a,O
+,Dunkerque,B-geoE
+Sentence: 439,Je,O
+,veux,O
+,partir,O
+,a,O
+,Beauvais,B-geoE
+Sentence: 440,Je,O
+,veux,O
+,partir,O
+,a,O
+,Orléans,B-geoE
+Sentence: 441,Je,O
+,veux,O
+,partir,O
+,a,O
+,Le Havre,B-geoE
+Sentence: 442,Je,O
+,veux,O
+,partir,O
+,a,O
+,Albertville,B-geoE
+Sentence: 443,Je,O
+,veux,O
+,partir,O
+,a,O
+,Nanterre,B-geoE
+Sentence: 444,Je,O
+,veux,O
+,partir,O
+,a,O
+,Thonon-les-Bains,B-geoE
+Sentence: 445,Je,O
+,veux,O
+,partir,O
+,a,O
+,Dunkerque,B-geoE
+Sentence: 446,Je,O
+,veux,O
+,partir,O
+,a,O
+,Haguenau,B-geoE
+Sentence: 447,Je,O
+,veux,O
+,partir,O
+,a,O
+,Wuhan,B-geoE
+Sentence: 448,Je,O
+,veux,O
+,partir,O
+,a,O
+,Limoges,B-geoE
+Sentence: 449,Je,O
+,veux,O
+,partir,O
+,a,O
+,Lille,B-geoE
+Sentence: 450,Je,O
+,veux,O
+,partir,O
+,a,O
+,Amiens,B-geoE
+Sentence: 451,Je,O
+,veux,O
+,partir,O
+,a,O
+,Colmar,B-geoE
+Sentence: 452,Je,O
+,veux,O
+,partir,O
+,a,O
+,Arles,B-geoE
+Sentence: 453,Je,O
+,veux,O
+,partir,O
+,a,O
+,Marseille,B-geoE
+Sentence: 454,Je,O
+,veux,O
+,partir,O
+,a,O
+,Boulogne-Billancourt,B-geoE
+Sentence: 455,Je,O
+,veux,O
+,partir,O
+,a,O
+,Nîmes,B-geoE
+Sentence: 456,Je,O
+,veux,O
+,partir,O
+,a,O
+,Auch,B-geoE
+Sentence: 457,Je,O
+,veux,O
+,partir,O
+,a,O
+,Dreux,B-geoE
+Sentence: 458,Je,O
+,veux,O
+,partir,O
+,a,O
+,Rennes,B-geoE
+Sentence: 459,Je,O
+,veux,O
+,partir,O
+,a,O
+,Alpes-Maritimes,B-geoE
+Sentence: 460,Je,O
+,veux,O
+,partir,O
+,a,O
+,Créteil,B-geoE
+Sentence: 461,Je,O
+,veux,O
+,partir,O
+,a,O
+,Quimper,B-geoE
+Sentence: 462,Je,O
+,veux,O
+,partir,O
+,a,O
+,Alpes-Maritimes,B-geoE
+Sentence: 463,Je,O
+,veux,O
+,partir,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 464,Je,O
+,veux,O
+,partir,O
+,a,O
+,Barcelone,B-geoE
+Sentence: 465,Je,O
+,veux,O
+,partir,O
+,a,O
+,Lyon,B-geoE
+Sentence: 466,Je,O
+,veux,O
+,partir,O
+,a,O
+,Clermont-Ferrand,B-geoE
+Sentence: 467,Je,O
+,veux,O
+,partir,O
+,a,O
+,Barcelone,B-geoE
+Sentence: 468,Je,O
+,veux,O
+,partir,O
+,a,O
+,Colmar,B-geoE
+Sentence: 469,Je,O
+,veux,O
+,partir,O
+,a,O
+,Besançon,B-geoE
+Sentence: 470,Je,O
+,veux,O
+,partir,O
+,a,O
+,Poitiers,B-geoE
+Sentence: 471,Je,O
+,veux,O
+,partir,O
+,a,O
+,Caen,B-geoE
+Sentence: 472,Je,O
+,veux,O
+,partir,O
+,a,O
+,Chicago,B-geoE
+Sentence: 473,Je,O
+,veux,O
+,partir,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 474,Je,O
+,veux,O
+,partir,O
+,a,O
+,Zurich,B-geoE
+Sentence: 475,Je,O
+,veux,O
+,partir,O
+,a,O
+,Arras,B-geoE
+Sentence: 476,Je,O
+,veux,O
+,partir,O
+,a,O
+,Colombes,B-geoE
+Sentence: 477,Je,O
+,veux,O
+,partir,O
+,a,O
+,Belfort,B-geoE
+Sentence: 478,Je,O
+,veux,O
+,partir,O
+,a,O
+,Argenteuil,B-geoE
+Sentence: 479,Je,O
+,veux,O
+,partir,O
+,a,O
+,Pekin,B-geoE
+Sentence: 480,Je,O
+,veux,O
+,partir,O
+,a,O
+,Zurich,B-geoE
+Sentence: 481,Je,O
+,veux,O
+,partir,O
+,a,O
+,Maisons-Alfort,B-geoE
+Sentence: 482,Je,O
+,veux,O
+,partir,O
+,a,O
+,Rouen,B-geoE
+Sentence: 483,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bandol,B-geoE
+Sentence: 484,Je,O
+,veux,O
+,partir,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 485,Je,O
+,veux,O
+,partir,O
+,a,O
+,Quimper,B-geoE
+Sentence: 486,Je,O
+,veux,O
+,partir,O
+,a,O
+,Créteil,B-geoE
+Sentence: 487,Je,O
+,veux,O
+,partir,O
+,a,O
+,Auxerre,B-geoE
+Sentence: 488,Je,O
+,veux,O
+,partir,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 489,Je,O
+,veux,O
+,partir,O
+,a,O
+,Arras,B-geoE
+Sentence: 490,Je,O
+,veux,O
+,partir,O
+,a,O
+,Arras,B-geoE
+Sentence: 491,Je,O
+,veux,O
+,partir,O
+,a,O
+,Allonnes,B-geoE
+Sentence: 492,Je,O
+,veux,O
+,partir,O
+,a,O
+,Jakarta,B-geoE
+Sentence: 493,Je,O
+,veux,O
+,partir,O
+,a,O
+,Bordeaux,B-geoE
+Sentence: 494,Je,O
+,veux,O
+,partir,O
+,a,O
+,Dijon,B-geoE
+Sentence: 495,Je,O
+,veux,O
+,partir,O
+,a,O
+,Athenes,B-geoE
+Sentence: 496,Je,O
+,veux,O
+,partir,O
+,a,O
+,Lille,B-geoE
+Sentence: 497,Je,O
+,veux,O
+,partir,O
+,a,O
+,Arles,B-geoE
+Sentence: 498,Je,O
+,veux,O
+,partir,O
+,a,O
+,Autun,B-geoE
+Sentence: 499,Je,O
+,veux,O
+,partir,O
+,a,O
+,Zurich,B-geoE
+Sentence: 500,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lyon,B-geoE
+Sentence: 501,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Athenes,B-geoE
+Sentence: 502,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Brive-la-Gaillarde,B-geoE
+Sentence: 503,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Marseille,B-geoE
+Sentence: 504,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Puteaux,B-geoE
+Sentence: 505,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Belfort,B-geoE
+Sentence: 506,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Paris,B-geoE
+Sentence: 507,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Angers,B-geoE
+Sentence: 508,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Épinay-sur-Seine,B-geoE
+Sentence: 509,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Bondy,B-geoE
+Sentence: 510,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Reims,B-geoE
+Sentence: 511,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Vatican,B-geoE
+Sentence: 512,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lyon,B-geoE
+Sentence: 513,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Sartrouville,B-geoE
+Sentence: 514,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Moscou,B-geoE
+Sentence: 515,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 516,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Rennes,B-geoE
+Sentence: 517,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Istanbul,B-geoE
+Sentence: 518,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Tokyo,B-geoE
+Sentence: 519,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Ales,B-geoE
+Sentence: 520,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Angoulême,B-geoE
+Sentence: 521,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Annemasse,B-geoE
+Sentence: 522,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Colmar,B-geoE
+Sentence: 523,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 524,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Troyes,B-geoE
+Sentence: 525,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Angers,B-geoE
+Sentence: 526,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aubervilliers,B-geoE
+Sentence: 527,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Rennes,B-geoE
+Sentence: 528,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Abbeville,B-geoE
+Sentence: 529,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 530,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Paris,B-geoE
+Sentence: 531,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 532,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 533,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Saint-Paul,B-geoE
+Sentence: 534,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 535,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+Sentence: 536,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lille,B-geoE
+Sentence: 537,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Yerres,B-geoE
+Sentence: 538,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Stockholm,B-geoE
+Sentence: 539,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 540,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 541,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Bandol,B-geoE
+Sentence: 542,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 543,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Argenteuil,B-geoE
+Sentence: 544,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 545,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 546,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Haguenau,B-geoE
+Sentence: 547,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Villeneuve-Saint-Georges,B-geoE
+Sentence: 548,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 549,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 550,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 551,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 552,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Tokyo,B-geoE
+Sentence: 553,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 554,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Gagny,B-geoE
+Sentence: 555,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Bangalore,B-geoE
+Sentence: 556,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Béthune,B-geoE
+Sentence: 557,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Toronto,B-geoE
+Sentence: 558,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Chicago,B-geoE
+Sentence: 559,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Rouen,B-geoE
+Sentence: 560,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Bobigny,B-geoE
+Sentence: 561,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Tourcoing,B-geoE
+Sentence: 562,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Tourcoing,B-geoE
+Sentence: 563,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Nanterre,B-geoE
+Sentence: 564,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Bangalore,B-geoE
+Sentence: 565,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Chicago,B-geoE
+Sentence: 566,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Nantes,B-geoE
+Sentence: 567,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lille,B-geoE
+Sentence: 568,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 569,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Épinay-sur-Seine,B-geoE
+Sentence: 570,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Saint-Maur-des-Fossés,B-geoE
+Sentence: 571,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Wuhan,B-geoE
+Sentence: 572,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lima,B-geoE
+Sentence: 573,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aix-en-Provence,B-geoE
+Sentence: 574,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Angoulême,B-geoE
+Sentence: 575,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 576,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 577,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 578,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 579,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Ales,B-geoE
+Sentence: 580,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+Sentence: 581,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 582,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Autun,B-geoE
+Sentence: 583,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Arles,B-geoE
+Sentence: 584,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Béthune,B-geoE
+Sentence: 585,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Oslo,B-geoE
+Sentence: 586,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 587,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 588,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+Sentence: 589,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Yerres,B-geoE
+Sentence: 590,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Sartrouville,B-geoE
+Sentence: 591,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Boulogne-Billancourt,B-geoE
+Sentence: 592,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Istres,B-geoE
+Sentence: 593,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Jakarta,B-geoE
+Sentence: 594,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 595,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Albertville,B-geoE
+Sentence: 596,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 597,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 598,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Lille,B-geoE
+Sentence: 599,Je,O
+,souhaite,O
+,aller,O
+,a,O
+,Ajaccio,B-geoE
+Sentence: Bandol,B-geoE
+Sentence: Caen,B-geoE
+Sentence: Madrid,B-geoE
+Sentence: Berlin,B-geoE
+Sentence: Istres,B-geoE
+Sentence: Aulnay-sous-Bois,B-geoE
+Sentence: Madrid,B-geoE
+Sentence: La Possession,B-geoE
+Sentence: Fréjus,B-geoE
+Sentence: Dijon,B-geoE
+Sentence: Aix-en-Provence,B-geoE
+Sentence: Dijon,B-geoE
+Sentence: Albi,B-geoE
+Sentence: Valence,B-geoE
+Sentence: Stockholm,B-geoE
+Sentence: Haguenau,B-geoE
+Sentence: Dijon,B-geoE
+Sentence: Moulins,B-geoE
+Sentence: Saint-Etienne,B-geoE
+Sentence: Dijon,B-geoE
+Sentence: Amiens,B-geoE
+Sentence: Nîmes,B-geoE
+Sentence: Béziers,B-geoE
+Sentence: Abbeville,B-geoE
+Sentence: Berlin,B-geoE
+Sentence: Rambouillet,B-geoE
+Sentence: Bayonne,B-geoE
+Sentence: Puteaux,B-geoE
+Sentence: Bobigny,B-geoE
+Sentence: Limoges,B-geoE
+Sentence: Nanterre,B-geoE
+Sentence: Bastia,B-geoE
+Sentence: Berlin,B-geoE
+Sentence: Colmar,B-geoE
+Sentence: Dreux,B-geoE
+Sentence: Beziers,B-geoE
+Sentence: Aulnay-sous-Bois,B-geoE
+Sentence: Rouen,B-geoE
+Sentence: Albertville,B-geoE
+Sentence: Perpignan,B-geoE
+Sentence: Montpellier,B-geoE
+Sentence: Bordeaux,B-geoE
+Sentence: Amiens,B-geoE
+Sentence: Saint-Maur-des-Fossés,B-geoE
+Sentence: Charleville-Mézières,B-geoE
+Sentence: Lorient,B-geoE
+Sentence: Béthune,B-geoE
+Sentence: Rouen,B-geoE
+Sentence: Boulogne-Billancourt,B-geoE
+Sentence: Amiens,B-geoE
+Sentence: Le Havre,B-geoE
+Sentence: Lyon,B-geoE
+Sentence: Aurillac,B-geoE
+Sentence: Grenoble,B-geoE
+Sentence: La Ciotat,B-geoE
+Sentence: Béthune,B-geoE
+Sentence: Toulouse,B-geoE
+Sentence: Saint-Etienne,B-geoE
+Sentence: Saint-Etienne,B-geoE
+Sentence: Bandol,B-geoE
+Sentence: Roubaix,B-geoE
+Sentence: Fréjus,B-geoE
+Sentence: Aubervilliers,B-geoE
+Sentence: Rennes,B-geoE
+Sentence: Bobigny,B-geoE
+Sentence: Orléans,B-geoE
+Sentence: Barcelone,B-geoE
+Sentence: Quimper,B-geoE
+Sentence: Montreuil,B-geoE
+Sentence: Charleville-Mézières,B-geoE
+Sentence: Argenteuil,B-geoE
+Sentence: Ibiza,B-geoE
+Sentence: Berlin,B-geoE
+Sentence: Belfort,B-geoE
+Sentence: Istanbul,B-geoE
+Sentence: Saint-Denis,B-geoE
+Sentence: Madrid,B-geoE
+Sentence: Shanghai,B-geoE
+Sentence: Dijon,B-geoE
+Sentence: Clermont-Ferrand,B-geoE
+Sentence: Shanghai,B-geoE
+Sentence: Angoulême,B-geoE
+Sentence: Montpellier,B-geoE
+Sentence: Amsterdam,B-geoE
+Sentence: Grenoble,B-geoE
+Sentence: Bangalore,B-geoE
+Sentence: Saint-Etienne,B-geoE
+Sentence: Bandol,B-geoE
+Sentence: Issy-les-Moulineaux,B-geoE
+Sentence: Le Havre,B-geoE
+Sentence: Palaiseau,B-geoE
+Sentence: Aubervilliers,B-geoE
+Sentence: Saint-Maur-des-Fossés,B-geoE
+Sentence: Mérignac,B-geoE
+Sentence: Pekin,B-geoE
+Sentence: Villeneuve-d'Ascq,B-geoE
+Sentence: Clermont-Ferrand,B-geoE
+Sentence: Arras,B-geoE
+Sentence: Singapour,B-geoE
+Sentence: Maisons-Alfort,B-geoE
+Sentence: 7000,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7001,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7002,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7003,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7004,Rejoindre,O
+,Autun,B-geoE
+,depuis,O
+,Autun,B-geoS
+Sentence: 7005,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7006,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7007,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7008,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7009,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7010,Rejoindre,O
+,Abbeville,B-geoE
+,depuis,O
+,Abbeville,B-geoS
+Sentence: 7011,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7012,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7013,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7014,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7015,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7016,Rejoindre,O
+,Villeurbanne,B-geoE
+,depuis,O
+,Villeurbanne,B-geoS
+Sentence: 7017,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7018,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7019,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7020,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7021,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7022,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7023,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7024,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7025,Rejoindre,O
+,Shanghai,B-geoE
+,depuis,O
+,Shanghai,B-geoS
+Sentence: 7026,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7027,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7028,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7029,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7030,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7031,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7032,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7033,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7034,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7035,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7036,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7037,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7038,Rejoindre,O
+,Roubaix,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 7039,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7040,Rejoindre,O
+,Londres,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 7041,Rejoindre,O
+,Zurich,B-geoE
+,depuis,O
+,Zurich,B-geoS
+Sentence: 7042,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7043,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7044,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7045,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7046,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7047,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7048,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7049,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7050,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7051,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7052,Rejoindre,O
+,Beziers,B-geoE
+,depuis,O
+,Beziers,B-geoS
+Sentence: 7053,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7054,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7055,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7056,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7057,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7058,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7059,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7060,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7061,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7062,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7063,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7064,Rejoindre,O
+,Sydney,B-geoE
+,depuis,O
+,Sydney,B-geoS
+Sentence: 7065,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7066,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7067,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7068,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7069,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7070,Rejoindre,O
+,Mérignac,B-geoE
+,depuis,O
+,Mérignac,B-geoS
+Sentence: 7071,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7072,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7073,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7074,Rejoindre,O
+,Londres,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 7075,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7076,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7077,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7078,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7079,Rejoindre,O
+,Meaux,B-geoE
+,depuis,O
+,Meaux,B-geoS
+Sentence: 7080,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7081,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7082,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7083,Rejoindre,O
+,Nanterre,B-geoE
+,depuis,O
+,Nanterre,B-geoS
+Sentence: 7084,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7085,Rejoindre,O
+,Lorient,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 7086,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7087,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7088,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7089,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7090,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7091,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7092,Rejoindre,O
+,Shanghai,B-geoE
+,depuis,O
+,Shanghai,B-geoS
+Sentence: 7093,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7094,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7095,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7096,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7097,Rejoindre,O
+,Le Havre,B-geoE
+,depuis,O
+,Le Havre,B-geoS
+Sentence: 7098,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7099,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7100,Rejoindre,O
+,Créteil,B-geoE
+,depuis,O
+,Créteil,B-geoS
+Sentence: 7101,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7102,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7103,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7104,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7105,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7106,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7107,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7108,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7109,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7110,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7111,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7112,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7113,Rejoindre,O
+,Tokyo,B-geoE
+,depuis,O
+,Tokyo,B-geoS
+Sentence: 7114,Rejoindre,O
+,Nancy,B-geoE
+,depuis,O
+,Nancy,B-geoS
+Sentence: 7115,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7116,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7117,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7118,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7119,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7120,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7121,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7122,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7123,Rejoindre,O
+,Dublin,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 7124,Rejoindre,O
+,Béziers,B-geoE
+,depuis,O
+,Béziers,B-geoS
+Sentence: 7125,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7126,Rejoindre,O
+,Marseille,B-geoE
+,depuis,O
+,Marseille,B-geoS
+Sentence: 7127,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7128,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7129,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7130,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7131,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7132,Rejoindre,O
+,Bondy,B-geoE
+,depuis,O
+,Bondy,B-geoS
+Sentence: 7133,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7134,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7135,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7136,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7137,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7138,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7139,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7140,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7141,Rejoindre,O
+,Berlin,B-geoE
+,depuis,O
+,Berlin,B-geoS
+Sentence: 7142,Rejoindre,O
+,Antibes,B-geoE
+,depuis,O
+,Antibes,B-geoS
+Sentence: 7143,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7144,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7145,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7146,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7147,Rejoindre,O
+,Brive-la-Gaillarde,B-geoE
+,depuis,O
+,Brive-la-Gaillarde,B-geoS
+Sentence: 7148,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7149,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7150,Rejoindre,O
+,Lima,B-geoE
+,depuis,O
+,Lima,B-geoS
+Sentence: 7151,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7152,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7153,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7154,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7155,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7156,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7157,Rejoindre,O
+,Bondy,B-geoE
+,depuis,O
+,Bondy,B-geoS
+Sentence: 7158,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7159,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7160,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7161,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7162,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7163,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7164,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7165,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7166,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7167,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7168,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7169,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7170,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7171,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7172,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7173,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7174,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7175,Rejoindre,O
+,Bagneux,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 7176,Rejoindre,O
+,Jakarta,B-geoE
+,depuis,O
+,Jakarta,B-geoS
+Sentence: 7177,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7178,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7179,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7180,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7181,Rejoindre,O
+,Moulins,B-geoE
+,depuis,O
+,Moulins,B-geoS
+Sentence: 7182,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7183,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7184,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7185,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7186,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7187,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7188,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7189,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7190,Rejoindre,O
+,Tokyo,B-geoE
+,depuis,O
+,Tokyo,B-geoS
+Sentence: 7191,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7192,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7193,Rejoindre,O
+,Montreuil,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 7194,Rejoindre,O
+,Troyes,B-geoE
+,depuis,O
+,Troyes,B-geoS
+Sentence: 7195,Rejoindre,O
+,Londres,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 7196,Rejoindre,O
+,Nancy,B-geoE
+,depuis,O
+,Nancy,B-geoS
+Sentence: 7197,Rejoindre,O
+,Montreuil,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 7198,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7199,Rejoindre,O
+,Marseille,B-geoE
+,depuis,O
+,Marseille,B-geoS
+Sentence: 7200,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7201,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7202,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7203,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7204,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7205,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7206,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7207,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7208,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7209,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7210,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7211,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7212,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7213,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7214,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7215,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7216,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7217,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7218,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7219,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7220,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7221,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7222,Rejoindre,O
+,Fréjus,B-geoE
+,depuis,O
+,Fréjus,B-geoS
+Sentence: 7223,Rejoindre,O
+,Aubervilliers,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 7224,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7225,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7226,Rejoindre,O
+,Nanterre,B-geoE
+,depuis,O
+,Nanterre,B-geoS
+Sentence: 7227,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7228,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7229,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7230,Rejoindre,O
+,Fréjus,B-geoE
+,depuis,O
+,Fréjus,B-geoS
+Sentence: 7231,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7232,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7233,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7234,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7235,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7236,Rejoindre,O
+,Bagnolet,B-geoE
+,depuis,O
+,Bagnolet,B-geoS
+Sentence: 7237,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7238,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7239,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7240,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7241,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7242,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7243,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7244,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7245,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7246,Rejoindre,O
+,Athenes,B-geoE
+,depuis,O
+,Athenes,B-geoS
+Sentence: 7247,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7248,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7249,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7250,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7251,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7252,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7253,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7254,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7255,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7256,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7257,Rejoindre,O
+,Bagneux,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 7258,Rejoindre,O
+,Charleville-Mézières,B-geoE
+,depuis,O
+,Charleville-Mézières,B-geoS
+Sentence: 7259,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7260,Rejoindre,O
+,Tokyo,B-geoE
+,depuis,O
+,Tokyo,B-geoS
+Sentence: 7261,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7262,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7263,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7264,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7265,Rejoindre,O
+,Athenes,B-geoE
+,depuis,O
+,Athenes,B-geoS
+Sentence: 7266,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7267,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7268,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7269,Rejoindre,O
+,Bondy,B-geoE
+,depuis,O
+,Bondy,B-geoS
+Sentence: 7270,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7271,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7272,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7273,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7274,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7275,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7276,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7277,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7278,Rejoindre,O
+,Nîmes,B-geoE
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 7279,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7280,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7281,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7282,Rejoindre,O
+,Istres,B-geoE
+,depuis,O
+,Istres,B-geoS
+Sentence: 7283,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7284,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7285,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7286,Rejoindre,O
+,Abbeville,B-geoE
+,depuis,O
+,Abbeville,B-geoS
+Sentence: 7287,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7288,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7289,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7290,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7291,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7292,Rejoindre,O
+,Nîmes,B-geoE
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 7293,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7294,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7295,Rejoindre,O
+,Nanterre,B-geoE
+,depuis,O
+,Nanterre,B-geoS
+Sentence: 7296,Rejoindre,O
+,Calais,B-geoE
+,depuis,O
+,Calais,B-geoS
+Sentence: 7297,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7298,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7299,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7300,Rejoindre,O
+,Fréjus,B-geoE
+,depuis,O
+,Fréjus,B-geoS
+Sentence: 7301,Rejoindre,O
+,Bergerac,B-geoE
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 7302,Rejoindre,O
+,Bagneux,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 7303,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7304,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7305,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7306,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7307,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7308,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7309,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7310,Rejoindre,O
+,Tourcoing,B-geoE
+,depuis,O
+,Tourcoing,B-geoS
+Sentence: 7311,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7312,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7313,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7314,Rejoindre,O
+,Roubaix,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 7315,Rejoindre,O
+,Quimper,B-geoE
+,depuis,O
+,Quimper,B-geoS
+Sentence: 7316,Rejoindre,O
+,Berlin,B-geoE
+,depuis,O
+,Berlin,B-geoS
+Sentence: 7317,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7318,Rejoindre,O
+,Beziers,B-geoE
+,depuis,O
+,Beziers,B-geoS
+Sentence: 7319,Rejoindre,O
+,Marseille,B-geoE
+,depuis,O
+,Marseille,B-geoS
+Sentence: 7320,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7321,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7322,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7323,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7324,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7325,Rejoindre,O
+,Aurillac,B-geoE
+,depuis,O
+,Aurillac,B-geoS
+Sentence: 7326,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7327,Rejoindre,O
+,La Ciotat,B-geoE
+,depuis,O
+,La Ciotat,B-geoS
+Sentence: 7328,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7329,Rejoindre,O
+,Chicago,B-geoE
+,depuis,O
+,Chicago,B-geoS
+Sentence: 7330,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7331,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7332,Rejoindre,O
+,Singapour,B-geoE
+,depuis,O
+,Singapour,B-geoS
+Sentence: 7333,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7334,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7335,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7336,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7337,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7338,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7339,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7340,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7341,Rejoindre,O
+,Zurich,B-geoE
+,depuis,O
+,Zurich,B-geoS
+Sentence: 7342,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7343,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7344,Rejoindre,O
+,Villeurbanne,B-geoE
+,depuis,O
+,Villeurbanne,B-geoS
+Sentence: 7345,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7346,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7347,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7348,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7349,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7350,Rejoindre,O
+,Lorient,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 7351,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7352,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7353,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7354,Rejoindre,O
+,Troyes,B-geoE
+,depuis,O
+,Troyes,B-geoS
+Sentence: 7355,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7356,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7357,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7358,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7359,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7360,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7361,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7362,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7363,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7364,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7365,Rejoindre,O
+,Avignon,B-geoE
+,depuis,O
+,Avignon,B-geoS
+Sentence: 7366,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7367,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7368,Rejoindre,O
+,Toulon,B-geoE
+,depuis,O
+,Toulon,B-geoS
+Sentence: 7369,Rejoindre,O
+,Aurillac,B-geoE
+,depuis,O
+,Aurillac,B-geoS
+Sentence: 7370,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7371,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7372,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7373,Rejoindre,O
+,Shanghai,B-geoE
+,depuis,O
+,Shanghai,B-geoS
+Sentence: 7374,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7375,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7376,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7377,Rejoindre,O
+,Antibes,B-geoE
+,depuis,O
+,Antibes,B-geoS
+Sentence: 7378,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7379,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 7380,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7381,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7382,Rejoindre,O
+,Abbeville,B-geoE
+,depuis,O
+,Abbeville,B-geoS
+Sentence: 7383,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7384,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7385,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7386,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7387,Rejoindre,O
+,Le Havre,B-geoE
+,depuis,O
+,Le Havre,B-geoS
+Sentence: 7388,Rejoindre,O
+,Villeurbanne,B-geoE
+,depuis,O
+,Villeurbanne,B-geoS
+Sentence: 7389,Rejoindre,O
+,Brive-la-Gaillarde,B-geoE
+,depuis,O
+,Brive-la-Gaillarde,B-geoS
+Sentence: 7390,Rejoindre,O
+,Quimper,B-geoE
+,depuis,O
+,Quimper,B-geoS
+Sentence: 7391,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7392,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7393,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7394,Rejoindre,O
+,La Ciotat,B-geoE
+,depuis,O
+,La Ciotat,B-geoS
+Sentence: 7395,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7396,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7397,Rejoindre,O
+,Sydney,B-geoE
+,depuis,O
+,Sydney,B-geoS
+Sentence: 7398,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7399,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7400,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7401,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7402,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7403,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7404,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7405,Rejoindre,O
+,Avignon,B-geoE
+,depuis,O
+,Avignon,B-geoS
+Sentence: 7406,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7407,Rejoindre,O
+,Nice,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 7408,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7409,Rejoindre,O
+,Bergerac,B-geoE
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 7410,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7411,Rejoindre,O
+,Bondy,B-geoE
+,depuis,O
+,Bondy,B-geoS
+Sentence: 7412,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7413,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7414,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7415,Rejoindre,O
+,Bagnolet,B-geoE
+,depuis,O
+,Bagnolet,B-geoS
+Sentence: 7416,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7417,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7418,Rejoindre,O
+,Troyes,B-geoE
+,depuis,O
+,Troyes,B-geoS
+Sentence: 7419,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7420,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7421,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7422,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 7423,Rejoindre,O
+,Jakarta,B-geoE
+,depuis,O
+,Jakarta,B-geoS
+Sentence: 7424,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7425,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7426,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7427,Rejoindre,O
+,Beauvais,B-geoE
+,depuis,O
+,Beauvais,B-geoS
+Sentence: 7428,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7429,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7430,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7431,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7432,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7433,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7434,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7435,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7436,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7437,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7438,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7439,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7440,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7441,Rejoindre,O
+,Béziers,B-geoE
+,depuis,O
+,Béziers,B-geoS
+Sentence: 7442,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7443,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7444,Rejoindre,O
+,Montreuil,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 7445,Rejoindre,O
+,Montreuil,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 7446,Rejoindre,O
+,Jakarta,B-geoE
+,depuis,O
+,Jakarta,B-geoS
+Sentence: 7447,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7448,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7449,Rejoindre,O
+,Beziers,B-geoE
+,depuis,O
+,Beziers,B-geoS
+Sentence: 7450,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7451,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7452,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7453,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7454,Rejoindre,O
+,Beziers,B-geoE
+,depuis,O
+,Beziers,B-geoS
+Sentence: 7455,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7456,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7457,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7458,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7459,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7460,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7461,Rejoindre,O
+,Berlin,B-geoE
+,depuis,O
+,Berlin,B-geoS
+Sentence: 7462,Rejoindre,O
+,Calais,B-geoE
+,depuis,O
+,Calais,B-geoS
+Sentence: 7463,Rejoindre,O
+,Tourcoing,B-geoE
+,depuis,O
+,Tourcoing,B-geoS
+Sentence: 7464,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7465,Rejoindre,O
+,Issy-les-Moulineaux,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 7466,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7467,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7468,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7469,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7470,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7471,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7472,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7473,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7474,Rejoindre,O
+,Troyes,B-geoE
+,depuis,O
+,Troyes,B-geoS
+Sentence: 7475,Rejoindre,O
+,Abbeville,B-geoE
+,depuis,O
+,Abbeville,B-geoS
+Sentence: 7476,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7477,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7478,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7479,Rejoindre,O
+,Dublin,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 7480,Rejoindre,O
+,Dublin,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 7481,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7482,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7483,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7484,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7485,Rejoindre,O
+,Istres,B-geoE
+,depuis,O
+,Istres,B-geoS
+Sentence: 7486,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7487,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7488,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7489,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7490,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7491,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7492,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7493,Rejoindre,O
+,Moulins,B-geoE
+,depuis,O
+,Moulins,B-geoS
+Sentence: 7494,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7495,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7496,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7497,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7498,Rejoindre,O
+,Calais,B-geoE
+,depuis,O
+,Calais,B-geoS
+Sentence: 7499,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7500,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7501,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7502,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7503,Rejoindre,O
+,Nîmes,B-geoE
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 7504,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7505,Rejoindre,O
+,Nancy,B-geoE
+,depuis,O
+,Nancy,B-geoS
+Sentence: 7506,Rejoindre,O
+,Toulon,B-geoE
+,depuis,O
+,Toulon,B-geoS
+Sentence: 7507,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7508,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7509,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7510,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7511,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7512,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7513,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7514,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7515,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7516,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7517,Rejoindre,O
+,Madrid,B-geoE
+,depuis,O
+,Madrid,B-geoS
+Sentence: 7518,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7519,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7520,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7521,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7522,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7523,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7524,Rejoindre,O
+,Béziers,B-geoE
+,depuis,O
+,Béziers,B-geoS
+Sentence: 7525,Rejoindre,O
+,Tourcoing,B-geoE
+,depuis,O
+,Tourcoing,B-geoS
+Sentence: 7526,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7527,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7528,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7529,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7530,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7531,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7532,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7533,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7534,Rejoindre,O
+,Toronto,B-geoE
+,depuis,O
+,Toronto,B-geoS
+Sentence: 7535,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7536,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7537,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7538,Rejoindre,O
+,Berlin,B-geoE
+,depuis,O
+,Berlin,B-geoS
+Sentence: 7539,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7540,Rejoindre,O
+,Bergerac,B-geoE
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 7541,Rejoindre,O
+,Nancy,B-geoE
+,depuis,O
+,Nancy,B-geoS
+Sentence: 7542,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7543,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7544,Rejoindre,O
+,Issy-les-Moulineaux,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 7545,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7546,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7547,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7548,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7549,Rejoindre,O
+,Le Havre,B-geoE
+,depuis,O
+,Le Havre,B-geoS
+Sentence: 7550,Rejoindre,O
+,Bagnolet,B-geoE
+,depuis,O
+,Bagnolet,B-geoS
+Sentence: 7551,Rejoindre,O
+,Orléans,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 7552,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7553,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7554,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7555,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7556,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7557,Rejoindre,O
+,Toronto,B-geoE
+,depuis,O
+,Toronto,B-geoS
+Sentence: 7558,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7559,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7560,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7561,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7562,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7563,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7564,Rejoindre,O
+,Montreuil,B-geoE
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 7565,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7566,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7567,Rejoindre,O
+,Villeneuve-d'Ascq,B-geoE
+,depuis,O
+,Villeneuve-d'Ascq,B-geoS
+Sentence: 7568,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7569,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7570,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7571,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7572,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7573,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7574,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7575,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7576,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 7577,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7578,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7579,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7580,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7581,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7582,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7583,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7584,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7585,Rejoindre,O
+,Roubaix,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 7586,Rejoindre,O
+,Sartrouville,B-geoE
+,depuis,O
+,Sartrouville,B-geoS
+Sentence: 7587,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7588,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7589,Rejoindre,O
+,Orléans,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 7590,Rejoindre,O
+,Quimper,B-geoE
+,depuis,O
+,Quimper,B-geoS
+Sentence: 7591,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7592,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7593,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7594,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7595,Rejoindre,O
+,Calais,B-geoE
+,depuis,O
+,Calais,B-geoS
+Sentence: 7596,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7597,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7598,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7599,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7600,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7601,Rejoindre,O
+,Tourcoing,B-geoE
+,depuis,O
+,Tourcoing,B-geoS
+Sentence: 7602,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7603,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7604,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7605,Rejoindre,O
+,Autun,B-geoE
+,depuis,O
+,Autun,B-geoS
+Sentence: 7606,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7607,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7608,Rejoindre,O
+,Aubervilliers,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 7609,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7610,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7611,Rejoindre,O
+,Bergerac,B-geoE
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 7612,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7613,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7614,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7615,Rejoindre,O
+,Béziers,B-geoE
+,depuis,O
+,Béziers,B-geoS
+Sentence: 7616,Rejoindre,O
+,Madrid,B-geoE
+,depuis,O
+,Madrid,B-geoS
+Sentence: 7617,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7618,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7619,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7620,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7621,Rejoindre,O
+,Lima,B-geoE
+,depuis,O
+,Lima,B-geoS
+Sentence: 7622,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7623,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7624,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7625,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7626,Rejoindre,O
+,La Ciotat,B-geoE
+,depuis,O
+,La Ciotat,B-geoS
+Sentence: 7627,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7628,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7629,Rejoindre,O
+,Ibiza,B-geoE
+,depuis,O
+,Ibiza,B-geoS
+Sentence: 7630,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7631,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7632,Rejoindre,O
+,Amiens,B-geoE
+,depuis,O
+,Amiens,B-geoS
+Sentence: 7633,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7634,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7635,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7636,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7637,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7638,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7639,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7640,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7641,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7642,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7643,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7644,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7645,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7646,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7647,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7648,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7649,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7650,Rejoindre,O
+,Amsterdam,B-geoE
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 7651,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7652,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7653,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7654,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7655,Rejoindre,O
+,Bastia,B-geoE
+,depuis,O
+,Bastia,B-geoS
+Sentence: 7656,Rejoindre,O
+,Fréjus,B-geoE
+,depuis,O
+,Fréjus,B-geoS
+Sentence: 7657,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7658,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7659,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7660,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7661,Rejoindre,O
+,Orléans,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 7662,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7663,Rejoindre,O
+,Istres,B-geoE
+,depuis,O
+,Istres,B-geoS
+Sentence: 7664,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7665,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7666,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7667,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7668,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7669,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7670,Rejoindre,O
+,Aubervilliers,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 7671,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7672,Rejoindre,O
+,Le Havre,B-geoE
+,depuis,O
+,Le Havre,B-geoS
+Sentence: 7673,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7674,Rejoindre,O
+,Orléans,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 7675,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7676,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7677,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7678,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7679,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7680,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7681,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7682,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7683,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7684,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7685,Rejoindre,O
+,Nice,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 7686,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7687,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7688,Rejoindre,O
+,Albertville,B-geoE
+,depuis,O
+,Albertville,B-geoS
+Sentence: 7689,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7690,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 7691,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7692,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7693,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7694,Rejoindre,O
+,Chicago,B-geoE
+,depuis,O
+,Chicago,B-geoS
+Sentence: 7695,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7696,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7697,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7698,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7699,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7700,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7701,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7702,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7703,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7704,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7705,Rejoindre,O
+,La Possession,B-geoE
+,depuis,O
+,La Possession,B-geoS
+Sentence: 7706,Rejoindre,O
+,Beauvais,B-geoE
+,depuis,O
+,Beauvais,B-geoS
+Sentence: 7707,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7708,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7709,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7710,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7711,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7712,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7713,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7714,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7715,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7716,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7717,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7718,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7719,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7720,Rejoindre,O
+,Villeurbanne,B-geoE
+,depuis,O
+,Villeurbanne,B-geoS
+Sentence: 7721,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7722,Rejoindre,O
+,Le Havre,B-geoE
+,depuis,O
+,Le Havre,B-geoS
+Sentence: 7723,Rejoindre,O
+,Sartrouville,B-geoE
+,depuis,O
+,Sartrouville,B-geoS
+Sentence: 7724,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7725,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7726,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7727,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7728,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7729,Rejoindre,O
+,Saint-Etienne,B-geoE
+,depuis,O
+,Saint-Etienne,B-geoS
+Sentence: 7730,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7731,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7732,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7733,Rejoindre,O
+,Villeneuve-d'Ascq,B-geoE
+,depuis,O
+,Villeneuve-d'Ascq,B-geoS
+Sentence: 7734,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7735,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7736,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7737,Rejoindre,O
+,Charleville-Mézières,B-geoE
+,depuis,O
+,Charleville-Mézières,B-geoS
+Sentence: 7738,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7739,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7740,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7741,Rejoindre,O
+,Sydney,B-geoE
+,depuis,O
+,Sydney,B-geoS
+Sentence: 7742,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7743,Rejoindre,O
+,Meaux,B-geoE
+,depuis,O
+,Meaux,B-geoS
+Sentence: 7744,Rejoindre,O
+,Metz,B-geoE
+,depuis,O
+,Metz,B-geoS
+Sentence: 7745,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7746,Rejoindre,O
+,Perpignan,B-geoE
+,depuis,O
+,Perpignan,B-geoS
+Sentence: 7747,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7748,Rejoindre,O
+,Nîmes,B-geoE
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 7749,Rejoindre,O
+,Issy-les-Moulineaux,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 7750,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7751,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7752,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7753,Rejoindre,O
+,Roubaix,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 7754,Rejoindre,O
+,Moscou,B-geoE
+,depuis,O
+,Moscou,B-geoS
+Sentence: 7755,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7756,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7757,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7758,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7759,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7760,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7761,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7762,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7763,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7764,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7765,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7766,Rejoindre,O
+,Toulouse,B-geoE
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 7767,Rejoindre,O
+,Toulon,B-geoE
+,depuis,O
+,Toulon,B-geoS
+Sentence: 7768,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7769,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7770,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7771,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7772,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7773,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7774,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7775,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7776,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7777,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+,depuis,O
+,Aulnay-sous-Bois,B-geoS
+Sentence: 7778,Rejoindre,O
+,Créteil,B-geoE
+,depuis,O
+,Créteil,B-geoS
+Sentence: 7779,Rejoindre,O
+,Meaux,B-geoE
+,depuis,O
+,Meaux,B-geoS
+Sentence: 7780,Rejoindre,O
+,Mulhouse,B-geoE
+,depuis,O
+,Mulhouse,B-geoS
+Sentence: 7781,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7782,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7783,Rejoindre,O
+,Bobigny,B-geoE
+,depuis,O
+,Bobigny,B-geoS
+Sentence: 7784,Rejoindre,O
+,Auch,B-geoE
+,depuis,O
+,Auch,B-geoS
+Sentence: 7785,Rejoindre,O
+,Antibes,B-geoE
+,depuis,O
+,Antibes,B-geoS
+Sentence: 7786,Rejoindre,O
+,Bergerac,B-geoE
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 7787,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7788,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7789,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7790,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7791,Rejoindre,O
+,Rennes,B-geoE
+,depuis,O
+,Rennes,B-geoS
+Sentence: 7792,Rejoindre,O
+,Villeneuve-d'Ascq,B-geoE
+,depuis,O
+,Villeneuve-d'Ascq,B-geoS
+Sentence: 7793,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7794,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7795,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7796,Rejoindre,O
+,Fréjus,B-geoE
+,depuis,O
+,Fréjus,B-geoS
+Sentence: 7797,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7798,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7799,Rejoindre,O
+,Brive-la-Gaillarde,B-geoE
+,depuis,O
+,Brive-la-Gaillarde,B-geoS
+Sentence: 7800,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7801,Rejoindre,O
+,La Ciotat,B-geoE
+,depuis,O
+,La Ciotat,B-geoS
+Sentence: 7802,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7803,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7804,Rejoindre,O
+,Londres,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 7805,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7806,Rejoindre,O
+,Yerres,B-geoE
+,depuis,O
+,Yerres,B-geoS
+Sentence: 7807,Rejoindre,O
+,Bagnolet,B-geoE
+,depuis,O
+,Bagnolet,B-geoS
+Sentence: 7808,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+,depuis,O
+,Saint-Maur-des-Fossés,B-geoS
+Sentence: 7809,Rejoindre,O
+,Palaiseau,B-geoE
+,depuis,O
+,Palaiseau,B-geoS
+Sentence: 7810,Rejoindre,O
+,Villeurbanne,B-geoE
+,depuis,O
+,Villeurbanne,B-geoS
+Sentence: 7811,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7812,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7813,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7814,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7815,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7816,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7817,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7818,Rejoindre,O
+,Alfortville,B-geoE
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 7819,Rejoindre,O
+,Mulhouse,B-geoE
+,depuis,O
+,Mulhouse,B-geoS
+Sentence: 7820,Rejoindre,O
+,Berlin,B-geoE
+,depuis,O
+,Berlin,B-geoS
+Sentence: 7821,Rejoindre,O
+,Bagneux,B-geoE
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 7822,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7823,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7824,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7825,Rejoindre,O
+,Bordeaux,B-geoE
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 7826,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7827,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7828,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7829,Rejoindre,O
+,Istres,B-geoE
+,depuis,O
+,Istres,B-geoS
+Sentence: 7830,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7831,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7832,Rejoindre,O
+,Paris,B-geoE
+,depuis,O
+,Paris,B-geoS
+Sentence: 7833,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7834,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7835,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7836,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7837,Rejoindre,O
+,Bandol,B-geoE
+,depuis,O
+,Bandol,B-geoS
+Sentence: 7838,Rejoindre,O
+,Caen,B-geoE
+,depuis,O
+,Caen,B-geoS
+Sentence: 7839,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7840,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7841,Rejoindre,O
+,Marseille,B-geoE
+,depuis,O
+,Marseille,B-geoS
+Sentence: 7842,Rejoindre,O
+,Boulogne-Billancourt,B-geoE
+,depuis,O
+,Boulogne-Billancourt,B-geoS
+Sentence: 7843,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+,depuis,O
+,Alpes-Maritimes,B-geoS
+Sentence: 7844,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7845,Rejoindre,O
+,Gagny,B-geoE
+,depuis,O
+,Gagny,B-geoS
+Sentence: 7846,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7847,Rejoindre,O
+,Beauvais,B-geoE
+,depuis,O
+,Beauvais,B-geoS
+Sentence: 7848,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7849,Rejoindre,O
+,Colombes,B-geoE
+,depuis,O
+,Colombes,B-geoS
+Sentence: 7850,Rejoindre,O
+,Moulins,B-geoE
+,depuis,O
+,Moulins,B-geoS
+Sentence: 7851,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7852,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 7853,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7854,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7855,Rejoindre,O
+,La Ciotat,B-geoE
+,depuis,O
+,La Ciotat,B-geoS
+Sentence: 7856,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7857,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7858,Rejoindre,O
+,Valence,B-geoE
+,depuis,O
+,Valence,B-geoS
+Sentence: 7859,Rejoindre,O
+,Dublin,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 7860,Rejoindre,O
+,Créteil,B-geoE
+,depuis,O
+,Créteil,B-geoS
+Sentence: 7861,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7862,Rejoindre,O
+,Meaux,B-geoE
+,depuis,O
+,Meaux,B-geoS
+Sentence: 7863,Rejoindre,O
+,Alençon,B-geoE
+,depuis,O
+,Alençon,B-geoS
+Sentence: 7864,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7865,Rejoindre,O
+,Villeneuve-Saint-Georges,B-geoE
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 7866,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7867,Rejoindre,O
+,Roubaix,B-geoE
+,depuis,O
+,Roubaix,B-geoS
+Sentence: 7868,Rejoindre,O
+,Ajaccio,B-geoE
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 7869,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7870,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7871,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7872,Rejoindre,O
+,Argenteuil,B-geoE
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 7873,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7874,Rejoindre,O
+,Ales,B-geoE
+,depuis,O
+,Ales,B-geoS
+Sentence: 7875,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7876,Rejoindre,O
+,Annemasse,B-geoE
+,depuis,O
+,Annemasse,B-geoS
+Sentence: 7877,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7878,Rejoindre,O
+,Istanbul,B-geoE
+,depuis,O
+,Istanbul,B-geoS
+Sentence: 7879,Rejoindre,O
+,Rambouillet,B-geoE
+,depuis,O
+,Rambouillet,B-geoS
+Sentence: 7880,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7881,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7882,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7883,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7884,Rejoindre,O
+,Albi,B-geoE
+,depuis,O
+,Albi,B-geoS
+Sentence: 7885,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7886,Rejoindre,O
+,Orléans,B-geoE
+,depuis,O
+,Orléans,B-geoS
+Sentence: 7887,Rejoindre,O
+,Nancy,B-geoE
+,depuis,O
+,Nancy,B-geoS
+Sentence: 7888,Rejoindre,O
+,Arras,B-geoE
+,depuis,O
+,Arras,B-geoS
+Sentence: 7889,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7890,Rejoindre,O
+,Strasbourg,B-geoE
+,depuis,O
+,Strasbourg,B-geoS
+Sentence: 7891,Rejoindre,O
+,Arles,B-geoE
+,depuis,O
+,Arles,B-geoS
+Sentence: 7892,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7893,Rejoindre,O
+,Aix-en-Provence,B-geoE
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 7894,Rejoindre,O
+,Autun,B-geoE
+,depuis,O
+,Autun,B-geoS
+Sentence: 7895,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 7896,Rejoindre,O
+,Clermont-Ferrand,B-geoE
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 7897,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7898,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7899,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7900,Rejoindre,O
+,Istres,B-geoE
+,depuis,O
+,Istres,B-geoS
+Sentence: 7901,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7902,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7903,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7904,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7905,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+,depuis,O
+,Vitry-sur-Seine,B-geoS
+Sentence: 7906,Rejoindre,O
+,Haguenau,B-geoE
+,depuis,O
+,Haguenau,B-geoS
+Sentence: 7907,Rejoindre,O
+,Montpellier,B-geoE
+,depuis,O
+,Montpellier,B-geoS
+Sentence: 7908,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7909,Rejoindre,O
+,Mérignac,B-geoE
+,depuis,O
+,Mérignac,B-geoS
+Sentence: 7910,Rejoindre,O
+,Wuhan,B-geoE
+,depuis,O
+,Wuhan,B-geoS
+Sentence: 7911,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7912,Rejoindre,O
+,Nanterre,B-geoE
+,depuis,O
+,Nanterre,B-geoS
+Sentence: 7913,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7914,Rejoindre,O
+,Saint-Paul,B-geoE
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 7915,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7916,Rejoindre,O
+,Troyes,B-geoE
+,depuis,O
+,Troyes,B-geoS
+Sentence: 7917,Rejoindre,O
+,Nice,B-geoE
+,depuis,O
+,Nice,B-geoS
+Sentence: 7918,Rejoindre,O
+,Toulon,B-geoE
+,depuis,O
+,Toulon,B-geoS
+Sentence: 7919,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7920,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7921,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7922,Rejoindre,O
+,Avignon,B-geoE
+,depuis,O
+,Avignon,B-geoS
+Sentence: 7923,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7924,Rejoindre,O
+,Bondy,B-geoE
+,depuis,O
+,Bondy,B-geoS
+Sentence: 7925,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7926,Rejoindre,O
+,Zurich,B-geoE
+,depuis,O
+,Zurich,B-geoS
+Sentence: 7927,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7928,Rejoindre,O
+,Maisons-Alfort,B-geoE
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 7929,Rejoindre,O
+,Vatican,B-geoE
+,depuis,O
+,Vatican,B-geoS
+Sentence: 7930,Rejoindre,O
+,Issy-les-Moulineaux,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 7931,Rejoindre,O
+,Delhi,B-geoE
+,depuis,O
+,Delhi,B-geoS
+Sentence: 7932,Rejoindre,O
+,Mérignac,B-geoE
+,depuis,O
+,Mérignac,B-geoS
+Sentence: 7933,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7934,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7935,Rejoindre,O
+,Washington,B-geoE
+,depuis,O
+,Washington,B-geoS
+Sentence: 7936,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7937,Rejoindre,O
+,Annecy,B-geoE
+,depuis,O
+,Annecy,B-geoS
+Sentence: 7938,Rejoindre,O
+,Dublin,B-geoE
+,depuis,O
+,Dublin,B-geoS
+Sentence: 7939,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7940,Rejoindre,O
+,Barcelone,B-geoE
+,depuis,O
+,Barcelone,B-geoS
+Sentence: 7941,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+,depuis,O
+,Champigny-sur-Marne,B-geoS
+Sentence: 7942,Rejoindre,O
+,Lille,B-geoE
+,depuis,O
+,Lille,B-geoS
+Sentence: 7943,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7944,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7945,Rejoindre,O
+,Tournefeuille,B-geoE
+,depuis,O
+,Tournefeuille,B-geoS
+Sentence: 7946,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7947,Rejoindre,O
+,Dreux,B-geoE
+,depuis,O
+,Dreux,B-geoS
+Sentence: 7948,Rejoindre,O
+,Asnières-sur-Seine,B-geoE
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 7949,Rejoindre,O
+,Rouen,B-geoE
+,depuis,O
+,Rouen,B-geoS
+Sentence: 7950,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7951,Rejoindre,O
+,Auxerre,B-geoE
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 7952,Rejoindre,O
+,Sète,B-geoE
+,depuis,O
+,Sète,B-geoS
+Sentence: 7953,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7954,Rejoindre,O
+,Lorient,B-geoE
+,depuis,O
+,Lorient,B-geoS
+Sentence: 7955,Rejoindre,O
+,Poitiers,B-geoE
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 7956,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7957,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7958,Rejoindre,O
+,Pekin,B-geoE
+,depuis,O
+,Pekin,B-geoS
+Sentence: 7959,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7960,Rejoindre,O
+,Saint-Denis,B-geoE
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 7961,Rejoindre,O
+,Grenoble,B-geoE
+,depuis,O
+,Grenoble,B-geoS
+Sentence: 7962,Rejoindre,O
+,Pau,B-geoE
+,depuis,O
+,Pau,B-geoS
+Sentence: 7963,Rejoindre,O
+,Vannes,B-geoE
+,depuis,O
+,Vannes,B-geoS
+Sentence: 7964,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7965,Rejoindre,O
+,Colmar,B-geoE
+,depuis,O
+,Colmar,B-geoS
+Sentence: 7966,Rejoindre,O
+,Cotonou,B-geoE
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 7967,Rejoindre,O
+,Épinay-sur-Seine,B-geoE
+,depuis,O
+,Épinay-sur-Seine,B-geoS
+Sentence: 7968,Rejoindre,O
+,Auckland,B-geoE
+,depuis,O
+,Auckland,B-geoS
+Sentence: 7969,Rejoindre,O
+,Nantes,B-geoE
+,depuis,O
+,Nantes,B-geoS
+Sentence: 7970,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7971,Rejoindre,O
+,Neuilly-sur-Seine,B-geoE
+,depuis,O
+,Neuilly-sur-Seine,B-geoS
+Sentence: 7972,Rejoindre,O
+,Brest,B-geoE
+,depuis,O
+,Brest,B-geoS
+Sentence: 7973,Rejoindre,O
+,Rome,B-geoE
+,depuis,O
+,Rome,B-geoS
+Sentence: 7974,Rejoindre,O
+,Singapour,B-geoE
+,depuis,O
+,Singapour,B-geoS
+Sentence: 7975,Rejoindre,O
+,Londres,B-geoE
+,depuis,O
+,Londres,B-geoS
+Sentence: 7976,Rejoindre,O
+,Châteauroux,B-geoE
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 7977,Rejoindre,O
+,Stockholm,B-geoE
+,depuis,O
+,Stockholm,B-geoS
+Sentence: 7978,Rejoindre,O
+,La Rochelle,B-geoE
+,depuis,O
+,La Rochelle,B-geoS
+Sentence: 7979,Rejoindre,O
+,Puteaux,B-geoE
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 7980,Rejoindre,O
+,Jakarta,B-geoE
+,depuis,O
+,Jakarta,B-geoS
+Sentence: 7981,Rejoindre,O
+,Sartrouville,B-geoE
+,depuis,O
+,Sartrouville,B-geoS
+Sentence: 7982,Rejoindre,O
+,Béthune,B-geoE
+,depuis,O
+,Béthune,B-geoS
+Sentence: 7983,Rejoindre,O
+,Bangalore,B-geoE
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 7984,Rejoindre,O
+,Issy-les-Moulineaux,B-geoE
+,depuis,O
+,Issy-les-Moulineaux,B-geoS
+Sentence: 7985,Rejoindre,O
+,Aurillac,B-geoE
+,depuis,O
+,Aurillac,B-geoS
+Sentence: 7986,Rejoindre,O
+,Belfort,B-geoE
+,depuis,O
+,Belfort,B-geoS
+Sentence: 7987,Rejoindre,O
+,Besançon,B-geoE
+,depuis,O
+,Besançon,B-geoS
+Sentence: 7988,Rejoindre,O
+,Aubervilliers,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 7989,Rejoindre,O
+,Aubervilliers,B-geoE
+,depuis,O
+,Aubervilliers,B-geoS
+Sentence: 7990,Rejoindre,O
+,Angoulême,B-geoE
+,depuis,O
+,Angoulême,B-geoS
+Sentence: 7991,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 7992,Rejoindre,O
+,Oslo,B-geoE
+,depuis,O
+,Oslo,B-geoS
+Sentence: 7993,Rejoindre,O
+,Limoges,B-geoE
+,depuis,O
+,Limoges,B-geoS
+Sentence: 7994,Rejoindre,O
+,Allonnes,B-geoE
+,depuis,O
+,Allonnes,B-geoS
+Sentence: 7995,Rejoindre,O
+,Dijon,B-geoE
+,depuis,O
+,Dijon,B-geoS
+Sentence: 7996,Rejoindre,O
+,Blois,B-geoE
+,depuis,O
+,Blois,B-geoS
+Sentence: 7997,Rejoindre,O
+,Lyon,B-geoE
+,depuis,O
+,Lyon,B-geoS
+Sentence: 7998,Rejoindre,O
+,Angers,B-geoE
+,depuis,O
+,Angers,B-geoS
+Sentence: 7999,Rejoindre,O
+,Dunkerque,B-geoE
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 8000,Rejoindre,O
+,Reims,B-geoE
+,depuis,O
+,Reims,B-geoS
+Sentence: 800,Je,O
+,veux,O
+,aller,O
+,a,O
+,Amiens,B-geoE
+,en,O
+,passant,O
+,par,O
+,Villeneuve-Saint-Georges,O
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 801,Je,O
+,veux,O
+,aller,O
+,a,O
+,Ales,B-geoE
+,en,O
+,passant,O
+,par,O
+,Angers,O
+,depuis,O
+,Puteaux,B-geoS
+Sentence: 802,Je,O
+,veux,O
+,aller,O
+,a,O
+,Thonon-les-Bains,B-geoE
+,en,O
+,passant,O
+,par,O
+,Calais,O
+,depuis,O
+,Angers,B-geoS
+Sentence: 803,Je,O
+,veux,O
+,aller,O
+,a,O
+,Tokyo,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ales,O
+,depuis,O
+,Sydney,B-geoS
+Sentence: 804,Je,O
+,veux,O
+,aller,O
+,a,O
+,Ajaccio,B-geoE
+,en,O
+,passant,O
+,par,O
+,Singapour,O
+,depuis,O
+,Quimper,B-geoS
+Sentence: 805,Je,O
+,veux,O
+,aller,O
+,a,O
+,Abbeville,B-geoE
+,en,O
+,passant,O
+,par,O
+,Metz,O
+,depuis,O
+,Nîmes,B-geoS
+Sentence: 806,Je,O
+,veux,O
+,aller,O
+,a,O
+,Dreux,B-geoE
+,en,O
+,passant,O
+,par,O
+,Saint-Denis,O
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 807,Je,O
+,veux,O
+,aller,O
+,a,O
+,Yerres,B-geoE
+,en,O
+,passant,O
+,par,O
+,Washington,O
+,depuis,O
+,Caen,B-geoS
+Sentence: 808,Je,O
+,veux,O
+,aller,O
+,a,O
+,Sète,B-geoE
+,en,O
+,passant,O
+,par,O
+,Thonon-les-Bains,O
+,depuis,O
+,Brest,B-geoS
+Sentence: 809,Je,O
+,veux,O
+,aller,O
+,a,O
+,Istres,B-geoE
+,en,O
+,passant,O
+,par,O
+,Lyon,O
+,depuis,O
+,Nanterre,B-geoS
+Sentence: 810,Je,O
+,veux,O
+,aller,O
+,a,O
+,Nanterre,B-geoE
+,en,O
+,passant,O
+,par,O
+,Amsterdam,O
+,depuis,O
+,Nantes,B-geoS
+Sentence: 811,Je,O
+,veux,O
+,aller,O
+,a,O
+,Poitiers,B-geoE
+,en,O
+,passant,O
+,par,O
+,Toronto,O
+,depuis,O
+,Nantes,B-geoS
+Sentence: 812,Je,O
+,veux,O
+,aller,O
+,a,O
+,La Rochelle,B-geoE
+,en,O
+,passant,O
+,par,O
+,Delhi,O
+,depuis,O
+,Dreux,B-geoS
+Sentence: 813,Je,O
+,veux,O
+,aller,O
+,a,O
+,Strasbourg,B-geoE
+,en,O
+,passant,O
+,par,O
+,Bondy,O
+,depuis,O
+,Besançon,B-geoS
+Sentence: 814,Je,O
+,veux,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,en,O
+,passant,O
+,par,O
+,Saint-Paul,O
+,depuis,O
+,Amsterdam,B-geoS
+Sentence: 815,Je,O
+,veux,O
+,aller,O
+,a,O
+,Ajaccio,B-geoE
+,en,O
+,passant,O
+,par,O
+,Nancy,O
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 816,Je,O
+,veux,O
+,aller,O
+,a,O
+,Belfort,B-geoE
+,en,O
+,passant,O
+,par,O
+,Istanbul,O
+,depuis,O
+,Bondy,B-geoS
+Sentence: 817,Je,O
+,veux,O
+,aller,O
+,a,O
+,Charleville-Mézières,B-geoE
+,en,O
+,passant,O
+,par,O
+,Sète,O
+,depuis,O
+,Chicago,B-geoS
+Sentence: 818,Je,O
+,veux,O
+,aller,O
+,a,O
+,Neuilly-sur-Seine,B-geoE
+,en,O
+,passant,O
+,par,O
+,Châteauroux,O
+,depuis,O
+,Ales,B-geoS
+Sentence: 819,Je,O
+,veux,O
+,aller,O
+,a,O
+,Washington,B-geoE
+,en,O
+,passant,O
+,par,O
+,Cotonou,O
+,depuis,O
+,Caen,B-geoS
+Sentence: 820,Je,O
+,veux,O
+,aller,O
+,a,O
+,Besançon,B-geoE
+,en,O
+,passant,O
+,par,O
+,Champigny-sur-Marne,O
+,depuis,O
+,Troyes,B-geoS
+Sentence: 821,Je,O
+,veux,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+,en,O
+,passant,O
+,par,O
+,Troyes,O
+,depuis,O
+,Lima,B-geoS
+Sentence: 822,Je,O
+,veux,O
+,aller,O
+,a,O
+,Toulouse,B-geoE
+,en,O
+,passant,O
+,par,O
+,Arles,O
+,depuis,O
+,Rome,B-geoS
+Sentence: 823,Je,O
+,veux,O
+,aller,O
+,a,O
+,Beziers,B-geoE
+,en,O
+,passant,O
+,par,O
+,Nancy,O
+,depuis,O
+,Béthune,B-geoS
+Sentence: 824,Je,O
+,veux,O
+,aller,O
+,a,O
+,Palaiseau,B-geoE
+,en,O
+,passant,O
+,par,O
+,Haguenau,O
+,depuis,O
+,Avignon,B-geoS
+Sentence: 825,Je,O
+,veux,O
+,aller,O
+,a,O
+,Moulins,B-geoE
+,en,O
+,passant,O
+,par,O
+,Vitry-sur-Seine,O
+,depuis,O
+,Dublin,B-geoS
+Sentence: 826,Je,O
+,veux,O
+,aller,O
+,a,O
+,Angoulême,B-geoE
+,en,O
+,passant,O
+,par,O
+,Saint-Etienne,O
+,depuis,O
+,Saint-Paul,B-geoS
+Sentence: 827,Je,O
+,veux,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+,en,O
+,passant,O
+,par,O
+,Amsterdam,O
+,depuis,O
+,Abbeville,B-geoS
+Sentence: 828,Je,O
+,veux,O
+,aller,O
+,a,O
+,Reims,B-geoE
+,en,O
+,passant,O
+,par,O
+,Rouen,O
+,depuis,O
+,Bandol,B-geoS
+Sentence: 829,Je,O
+,veux,O
+,aller,O
+,a,O
+,Ales,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ibiza,O
+,depuis,O
+,Rennes,B-geoS
+Sentence: 830,Je,O
+,veux,O
+,aller,O
+,a,O
+,Gagny,B-geoE
+,en,O
+,passant,O
+,par,O
+,La Rochelle,O
+,depuis,O
+,Villeneuve-Saint-Georges,B-geoS
+Sentence: 831,Je,O
+,veux,O
+,aller,O
+,a,O
+,Moscou,B-geoE
+,en,O
+,passant,O
+,par,O
+,Autun,O
+,depuis,O
+,Cotonou,B-geoS
+Sentence: 832,Je,O
+,veux,O
+,aller,O
+,a,O
+,Orléans,B-geoE
+,en,O
+,passant,O
+,par,O
+,Issy-les-Moulineaux,O
+,depuis,O
+,Auxerre,B-geoS
+Sentence: 833,Je,O
+,veux,O
+,aller,O
+,a,O
+,Beziers,B-geoE
+,en,O
+,passant,O
+,par,O
+,La Possession,O
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 834,Je,O
+,veux,O
+,aller,O
+,a,O
+,Albertville,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ales,O
+,depuis,O
+,Madrid,B-geoS
+Sentence: 835,Je,O
+,veux,O
+,aller,O
+,a,O
+,Bastia,B-geoE
+,en,O
+,passant,O
+,par,O
+,Dunkerque,O
+,depuis,O
+,Amiens,B-geoS
+Sentence: 836,Je,O
+,veux,O
+,aller,O
+,a,O
+,Blois,B-geoE
+,en,O
+,passant,O
+,par,O
+,Amiens,O
+,depuis,O
+,Bandol,B-geoS
+Sentence: 837,Je,O
+,veux,O
+,aller,O
+,a,O
+,Istres,B-geoE
+,en,O
+,passant,O
+,par,O
+,Saint-Paul,O
+,depuis,O
+,Amiens,B-geoS
+Sentence: 838,Je,O
+,veux,O
+,aller,O
+,a,O
+,Angers,B-geoE
+,en,O
+,passant,O
+,par,O
+,Caen,O
+,depuis,O
+,Lyon,B-geoS
+Sentence: 839,Je,O
+,veux,O
+,aller,O
+,a,O
+,Ajaccio,B-geoE
+,en,O
+,passant,O
+,par,O
+,Berlin,O
+,depuis,O
+,Poitiers,B-geoS
+Sentence: 840,Je,O
+,veux,O
+,aller,O
+,a,O
+,Limoges,B-geoE
+,en,O
+,passant,O
+,par,O
+,Stockholm,O
+,depuis,O
+,Bagnolet,B-geoS
+Sentence: 841,Je,O
+,veux,O
+,aller,O
+,a,O
+,Vitry-sur-Seine,B-geoE
+,en,O
+,passant,O
+,par,O
+,Colmar,O
+,depuis,O
+,Sydney,B-geoS
+Sentence: 842,Je,O
+,veux,O
+,aller,O
+,a,O
+,Auch,B-geoE
+,en,O
+,passant,O
+,par,O
+,Alpes-Maritimes,O
+,depuis,O
+,Orléans,B-geoS
+Sentence: 843,Je,O
+,veux,O
+,aller,O
+,a,O
+,Rouen,B-geoE
+,en,O
+,passant,O
+,par,O
+,Lima,O
+,depuis,O
+,Dunkerque,B-geoS
+Sentence: 844,Je,O
+,veux,O
+,aller,O
+,a,O
+,Marseille,B-geoE
+,en,O
+,passant,O
+,par,O
+,Aulnay-sous-Bois,O
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 845,Je,O
+,veux,O
+,aller,O
+,a,O
+,Lima,B-geoE
+,en,O
+,passant,O
+,par,O
+,Charleville-Mézières,O
+,depuis,O
+,Bagneux,B-geoS
+Sentence: 846,Je,O
+,veux,O
+,aller,O
+,a,O
+,Moscou,B-geoE
+,en,O
+,passant,O
+,par,O
+,Maisons-Alfort,O
+,depuis,O
+,Bayonne,B-geoS
+Sentence: 847,Je,O
+,veux,O
+,aller,O
+,a,O
+,Madrid,B-geoE
+,en,O
+,passant,O
+,par,O
+,Mérignac,O
+,depuis,O
+,Rome,B-geoS
+Sentence: 848,Je,O
+,veux,O
+,aller,O
+,a,O
+,Brive-la-Gaillarde,B-geoE
+,en,O
+,passant,O
+,par,O
+,Dreux,O
+,depuis,O
+,Nantes,B-geoS
+Sentence: 849,Je,O
+,veux,O
+,aller,O
+,a,O
+,Amiens,B-geoE
+,en,O
+,passant,O
+,par,O
+,Aubervilliers,O
+,depuis,O
+,Rome,B-geoS
+Sentence: 850,Je,O
+,veux,O
+,aller,O
+,a,O
+,Béthune,B-geoE
+,en,O
+,passant,O
+,par,O
+,Puteaux,O
+,depuis,O
+,Montreuil,B-geoS
+Sentence: 851,Je,O
+,veux,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+,en,O
+,passant,O
+,par,O
+,Bayonne,O
+,depuis,O
+,Bergerac,B-geoS
+Sentence: 852,Je,O
+,veux,O
+,aller,O
+,a,O
+,Dijon,B-geoE
+,en,O
+,passant,O
+,par,O
+,Belfort,O
+,depuis,O
+,Blois,B-geoS
+Sentence: 853,Je,O
+,veux,O
+,aller,O
+,a,O
+,Lille,B-geoE
+,en,O
+,passant,O
+,par,O
+,Béziers,O
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 854,Je,O
+,veux,O
+,aller,O
+,a,O
+,Bangalore,B-geoE
+,en,O
+,passant,O
+,par,O
+,Lille,O
+,depuis,O
+,Caen,B-geoS
+Sentence: 855,Je,O
+,veux,O
+,aller,O
+,a,O
+,Berlin,B-geoE
+,en,O
+,passant,O
+,par,O
+,Rennes,O
+,depuis,O
+,Argenteuil,B-geoS
+Sentence: 856,Je,O
+,veux,O
+,aller,O
+,a,O
+,Perpignan,B-geoE
+,en,O
+,passant,O
+,par,O
+,Perpignan,O
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 857,Je,O
+,veux,O
+,aller,O
+,a,O
+,Brest,B-geoE
+,en,O
+,passant,O
+,par,O
+,Montreuil,O
+,depuis,O
+,Pekin,B-geoS
+Sentence: 858,Je,O
+,veux,O
+,aller,O
+,a,O
+,Beauvais,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ibiza,O
+,depuis,O
+,Madrid,B-geoS
+Sentence: 859,Je,O
+,veux,O
+,aller,O
+,a,O
+,Arras,B-geoE
+,en,O
+,passant,O
+,par,O
+,Aubervilliers,O
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 860,Je,O
+,veux,O
+,aller,O
+,a,O
+,Lille,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ales,O
+,depuis,O
+,Athenes,B-geoS
+Sentence: 861,Je,O
+,veux,O
+,aller,O
+,a,O
+,Rambouillet,B-geoE
+,en,O
+,passant,O
+,par,O
+,Washington,O
+,depuis,O
+,Athenes,B-geoS
+Sentence: 862,Je,O
+,veux,O
+,aller,O
+,a,O
+,Saint-Denis,B-geoE
+,en,O
+,passant,O
+,par,O
+,Annemasse,O
+,depuis,O
+,Bondy,B-geoS
+Sentence: 863,Je,O
+,veux,O
+,aller,O
+,a,O
+,Sydney,B-geoE
+,en,O
+,passant,O
+,par,O
+,Antibes,O
+,depuis,O
+,Mulhouse,B-geoS
+Sentence: 864,Je,O
+,veux,O
+,aller,O
+,a,O
+,Shanghai,B-geoE
+,en,O
+,passant,O
+,par,O
+,Shanghai,O
+,depuis,O
+,Toulouse,B-geoS
+Sentence: 865,Je,O
+,veux,O
+,aller,O
+,a,O
+,Besançon,B-geoE
+,en,O
+,passant,O
+,par,O
+,Orléans,O
+,depuis,O
+,Washington,B-geoS
+Sentence: 866,Je,O
+,veux,O
+,aller,O
+,a,O
+,Toulon,B-geoE
+,en,O
+,passant,O
+,par,O
+,La Ciotat,O
+,depuis,O
+,Bandol,B-geoS
+Sentence: 867,Je,O
+,veux,O
+,aller,O
+,a,O
+,Strasbourg,B-geoE
+,en,O
+,passant,O
+,par,O
+,Bobigny,O
+,depuis,O
+,Yerres,B-geoS
+Sentence: 868,Je,O
+,veux,O
+,aller,O
+,a,O
+,Amiens,B-geoE
+,en,O
+,passant,O
+,par,O
+,Alfortville,O
+,depuis,O
+,Madrid,B-geoS
+Sentence: 869,Je,O
+,veux,O
+,aller,O
+,a,O
+,Béthune,B-geoE
+,en,O
+,passant,O
+,par,O
+,Argenteuil,O
+,depuis,O
+,Arras,B-geoS
+Sentence: 870,Je,O
+,veux,O
+,aller,O
+,a,O
+,Gagny,B-geoE
+,en,O
+,passant,O
+,par,O
+,Lille,O
+,depuis,O
+,Marseille,B-geoS
+Sentence: 871,Je,O
+,veux,O
+,aller,O
+,a,O
+,Antibes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Vannes,O
+,depuis,O
+,Aix-en-Provence,B-geoS
+Sentence: 872,Je,O
+,veux,O
+,aller,O
+,a,O
+,Rome,B-geoE
+,en,O
+,passant,O
+,par,O
+,Amiens,O
+,depuis,O
+,Clermont-Ferrand,B-geoS
+Sentence: 873,Je,O
+,veux,O
+,aller,O
+,a,O
+,Alpes-Maritimes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Angers,O
+,depuis,O
+,Thonon-les-Bains,B-geoS
+Sentence: 874,Je,O
+,veux,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+,en,O
+,passant,O
+,par,O
+,Charleville-Mézières,O
+,depuis,O
+,Vatican,B-geoS
+Sentence: 875,Je,O
+,veux,O
+,aller,O
+,a,O
+,Auch,B-geoE
+,en,O
+,passant,O
+,par,O
+,Avignon,O
+,depuis,O
+,Alfortville,B-geoS
+Sentence: 876,Je,O
+,veux,O
+,aller,O
+,a,O
+,Châteauroux,B-geoE
+,en,O
+,passant,O
+,par,O
+,Arras,O
+,depuis,O
+,Rennes,B-geoS
+Sentence: 877,Je,O
+,veux,O
+,aller,O
+,a,O
+,Tokyo,B-geoE
+,en,O
+,passant,O
+,par,O
+,Aurillac,O
+,depuis,O
+,Valence,B-geoS
+Sentence: 878,Je,O
+,veux,O
+,aller,O
+,a,O
+,Bondy,B-geoE
+,en,O
+,passant,O
+,par,O
+,Auxerre,O
+,depuis,O
+,Sartrouville,B-geoS
+Sentence: 879,Je,O
+,veux,O
+,aller,O
+,a,O
+,Istres,B-geoE
+,en,O
+,passant,O
+,par,O
+,Béziers,O
+,depuis,O
+,Madrid,B-geoS
+Sentence: 880,Je,O
+,veux,O
+,aller,O
+,a,O
+,Metz,B-geoE
+,en,O
+,passant,O
+,par,O
+,Toronto,O
+,depuis,O
+,Blois,B-geoS
+Sentence: 881,Je,O
+,veux,O
+,aller,O
+,a,O
+,Tourcoing,B-geoE
+,en,O
+,passant,O
+,par,O
+,Rambouillet,O
+,depuis,O
+,Châteauroux,B-geoS
+Sentence: 882,Je,O
+,veux,O
+,aller,O
+,a,O
+,Allonnes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Alençon,O
+,depuis,O
+,Albi,B-geoS
+Sentence: 883,Je,O
+,veux,O
+,aller,O
+,a,O
+,Autun,B-geoE
+,en,O
+,passant,O
+,par,O
+,Poitiers,O
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 884,Je,O
+,veux,O
+,aller,O
+,a,O
+,Yerres,B-geoE
+,en,O
+,passant,O
+,par,O
+,Toulouse,O
+,depuis,O
+,Madrid,B-geoS
+Sentence: 885,Je,O
+,veux,O
+,aller,O
+,a,O
+,Colmar,B-geoE
+,en,O
+,passant,O
+,par,O
+,Aulnay-sous-Bois,O
+,depuis,O
+,Asnières-sur-Seine,B-geoS
+Sentence: 886,Je,O
+,veux,O
+,aller,O
+,a,O
+,Bastia,B-geoE
+,en,O
+,passant,O
+,par,O
+,Auckland,O
+,depuis,O
+,Arles,B-geoS
+Sentence: 887,Je,O
+,veux,O
+,aller,O
+,a,O
+,Nîmes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Belfort,O
+,depuis,O
+,Bordeaux,B-geoS
+Sentence: 888,Je,O
+,veux,O
+,aller,O
+,a,O
+,Sartrouville,B-geoE
+,en,O
+,passant,O
+,par,O
+,Nanterre,O
+,depuis,O
+,Brest,B-geoS
+Sentence: 889,Je,O
+,veux,O
+,aller,O
+,a,O
+,Jakarta,B-geoE
+,en,O
+,passant,O
+,par,O
+,Lorient,O
+,depuis,O
+,Lyon,B-geoS
+Sentence: 890,Je,O
+,veux,O
+,aller,O
+,a,O
+,Toronto,B-geoE
+,en,O
+,passant,O
+,par,O
+,Calais,O
+,depuis,O
+,Gagny,B-geoS
+Sentence: 891,Je,O
+,veux,O
+,aller,O
+,a,O
+,Palaiseau,B-geoE
+,en,O
+,passant,O
+,par,O
+,Perpignan,O
+,depuis,O
+,Bangalore,B-geoS
+Sentence: 892,Je,O
+,veux,O
+,aller,O
+,a,O
+,Bayonne,B-geoE
+,en,O
+,passant,O
+,par,O
+,Paris,O
+,depuis,O
+,Lille,B-geoS
+Sentence: 893,Je,O
+,veux,O
+,aller,O
+,a,O
+,Metz,B-geoE
+,en,O
+,passant,O
+,par,O
+,Poitiers,O
+,depuis,O
+,Maisons-Alfort,B-geoS
+Sentence: 894,Je,O
+,veux,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+,en,O
+,passant,O
+,par,O
+,Rambouillet,O
+,depuis,O
+,Nantes,B-geoS
+Sentence: 895,Je,O
+,veux,O
+,aller,O
+,a,O
+,Vatican,B-geoE
+,en,O
+,passant,O
+,par,O
+,Amiens,O
+,depuis,O
+,Saint-Denis,B-geoS
+Sentence: 896,Je,O
+,veux,O
+,aller,O
+,a,O
+,Sète,B-geoE
+,en,O
+,passant,O
+,par,O
+,Ajaccio,O
+,depuis,O
+,Nice,B-geoS
+Sentence: 897,Je,O
+,veux,O
+,aller,O
+,a,O
+,Jakarta,B-geoE
+,en,O
+,passant,O
+,par,O
+,Chicago,O
+,depuis,O
+,Béthune,B-geoS
+Sentence: 898,Je,O
+,veux,O
+,aller,O
+,a,O
+,Antibes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Nantes,O
+,depuis,O
+,Ajaccio,B-geoS
+Sentence: 899,Je,O
+,veux,O
+,aller,O
+,a,O
+,Alpes-Maritimes,B-geoE
+,en,O
+,passant,O
+,par,O
+,Rambouillet,O
+,depuis,O
+,Toulon,B-geoS
+Sentence: 900,Comment,O
+,aller,O
+,a,O
+,Créteil,B-geoE
+Sentence: 901,Comment,O
+,aller,O
+,a,O
+,Thonon-les-Bains,B-geoE
+Sentence: 902,Comment,O
+,aller,O
+,a,O
+,Créteil,B-geoE
+Sentence: 903,Comment,O
+,aller,O
+,a,O
+,Alfortville,B-geoE
+Sentence: 904,Comment,O
+,aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 905,Comment,O
+,aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 906,Comment,O
+,aller,O
+,a,O
+,Troyes,B-geoE
+Sentence: 907,Comment,O
+,aller,O
+,a,O
+,Cotonou,B-geoE
+Sentence: 908,Comment,O
+,aller,O
+,a,O
+,Bergerac,B-geoE
+Sentence: 909,Comment,O
+,aller,O
+,a,O
+,Perpignan,B-geoE
+Sentence: 910,Comment,O
+,aller,O
+,a,O
+,Strasbourg,B-geoE
+Sentence: 911,Comment,O
+,aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 912,Comment,O
+,aller,O
+,a,O
+,Auxerre,B-geoE
+Sentence: 913,Comment,O
+,aller,O
+,a,O
+,Bondy,B-geoE
+Sentence: 914,Comment,O
+,aller,O
+,a,O
+,Saint-Etienne,B-geoE
+Sentence: 915,Comment,O
+,aller,O
+,a,O
+,Albertville,B-geoE
+Sentence: 916,Comment,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 917,Comment,O
+,aller,O
+,a,O
+,Rouen,B-geoE
+Sentence: 918,Comment,O
+,aller,O
+,a,O
+,Wuhan,B-geoE
+Sentence: 919,Comment,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 920,Comment,O
+,aller,O
+,a,O
+,Bangalore,B-geoE
+Sentence: 921,Comment,O
+,aller,O
+,a,O
+,Vatican,B-geoE
+Sentence: 922,Comment,O
+,aller,O
+,a,O
+,Athenes,B-geoE
+Sentence: 923,Comment,O
+,aller,O
+,a,O
+,Singapour,B-geoE
+Sentence: 924,Comment,O
+,aller,O
+,a,O
+,Strasbourg,B-geoE
+Sentence: 925,Comment,O
+,aller,O
+,a,O
+,Nantes,B-geoE
+Sentence: 926,Comment,O
+,aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 927,Comment,O
+,aller,O
+,a,O
+,Moulins,B-geoE
+Sentence: 928,Comment,O
+,aller,O
+,a,O
+,Auxerre,B-geoE
+Sentence: 929,Comment,O
+,aller,O
+,a,O
+,Bobigny,B-geoE
+Sentence: 930,Comment,O
+,aller,O
+,a,O
+,Neuilly-sur-Seine,B-geoE
+Sentence: 931,Comment,O
+,aller,O
+,a,O
+,Caen,B-geoE
+Sentence: 932,Comment,O
+,aller,O
+,a,O
+,Lima,B-geoE
+Sentence: 933,Comment,O
+,aller,O
+,a,O
+,Chicago,B-geoE
+Sentence: 934,Comment,O
+,aller,O
+,a,O
+,Tournefeuille,B-geoE
+Sentence: 935,Comment,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 936,Comment,O
+,aller,O
+,a,O
+,Nantes,B-geoE
+Sentence: 937,Comment,O
+,aller,O
+,a,O
+,Colombes,B-geoE
+Sentence: 938,Comment,O
+,aller,O
+,a,O
+,Troyes,B-geoE
+Sentence: 939,Comment,O
+,aller,O
+,a,O
+,Besançon,B-geoE
+Sentence: 940,Comment,O
+,aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 941,Comment,O
+,aller,O
+,a,O
+,Zurich,B-geoE
+Sentence: 942,Comment,O
+,aller,O
+,a,O
+,Beauvais,B-geoE
+Sentence: 943,Comment,O
+,aller,O
+,a,O
+,La Rochelle,B-geoE
+Sentence: 944,Comment,O
+,aller,O
+,a,O
+,Bandol,B-geoE
+Sentence: 945,Comment,O
+,aller,O
+,a,O
+,Quimper,B-geoE
+Sentence: 946,Comment,O
+,aller,O
+,a,O
+,Châteauroux,B-geoE
+Sentence: 947,Comment,O
+,aller,O
+,a,O
+,Amiens,B-geoE
+Sentence: 948,Comment,O
+,aller,O
+,a,O
+,Tokyo,B-geoE
+Sentence: 949,Comment,O
+,aller,O
+,a,O
+,Palaiseau,B-geoE
+Sentence: 950,Comment,O
+,aller,O
+,a,O
+,Béziers,B-geoE
+Sentence: 951,Comment,O
+,aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 952,Comment,O
+,aller,O
+,a,O
+,Lima,B-geoE
+Sentence: 953,Comment,O
+,aller,O
+,a,O
+,Villeneuve-Saint-Georges,B-geoE
+Sentence: 954,Comment,O
+,aller,O
+,a,O
+,Beauvais,B-geoE
+Sentence: 955,Comment,O
+,aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 956,Comment,O
+,aller,O
+,a,O
+,Singapour,B-geoE
+Sentence: 957,Comment,O
+,aller,O
+,a,O
+,Dunkerque,B-geoE
+Sentence: 958,Comment,O
+,aller,O
+,a,O
+,Annecy,B-geoE
+Sentence: 959,Comment,O
+,aller,O
+,a,O
+,Marseille,B-geoE
+Sentence: 960,Comment,O
+,aller,O
+,a,O
+,Lille,B-geoE
+Sentence: 961,Comment,O
+,aller,O
+,a,O
+,Poitiers,B-geoE
+Sentence: 962,Comment,O
+,aller,O
+,a,O
+,Singapour,B-geoE
+Sentence: 963,Comment,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 964,Comment,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 965,Comment,O
+,aller,O
+,a,O
+,Troyes,B-geoE
+Sentence: 966,Comment,O
+,aller,O
+,a,O
+,Abbeville,B-geoE
+Sentence: 967,Comment,O
+,aller,O
+,a,O
+,Lyon,B-geoE
+Sentence: 968,Comment,O
+,aller,O
+,a,O
+,Metz,B-geoE
+Sentence: 969,Comment,O
+,aller,O
+,a,O
+,Saint-Etienne,B-geoE
+Sentence: 970,Comment,O
+,aller,O
+,a,O
+,Béthune,B-geoE
+Sentence: 971,Comment,O
+,aller,O
+,a,O
+,Arles,B-geoE
+Sentence: 972,Comment,O
+,aller,O
+,a,O
+,Mulhouse,B-geoE
+Sentence: 973,Comment,O
+,aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 974,Comment,O
+,aller,O
+,a,O
+,Shanghai,B-geoE
+Sentence: 975,Comment,O
+,aller,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 976,Comment,O
+,aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 977,Comment,O
+,aller,O
+,a,O
+,Strasbourg,B-geoE
+Sentence: 978,Comment,O
+,aller,O
+,a,O
+,Angoulême,B-geoE
+Sentence: 979,Comment,O
+,aller,O
+,a,O
+,Colmar,B-geoE
+Sentence: 980,Comment,O
+,aller,O
+,a,O
+,Béziers,B-geoE
+Sentence: 981,Comment,O
+,aller,O
+,a,O
+,Gagny,B-geoE
+Sentence: 982,Comment,O
+,aller,O
+,a,O
+,Besançon,B-geoE
+Sentence: 983,Comment,O
+,aller,O
+,a,O
+,Chicago,B-geoE
+Sentence: 984,Comment,O
+,aller,O
+,a,O
+,Annemasse,B-geoE
+Sentence: 985,Comment,O
+,aller,O
+,a,O
+,Metz,B-geoE
+Sentence: 986,Comment,O
+,aller,O
+,a,O
+,Bondy,B-geoE
+Sentence: 987,Comment,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 988,Comment,O
+,aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 989,Comment,O
+,aller,O
+,a,O
+,Washington,B-geoE
+Sentence: 990,Comment,O
+,aller,O
+,a,O
+,Dublin,B-geoE
+Sentence: 991,Comment,O
+,aller,O
+,a,O
+,Valence,B-geoE
+Sentence: 992,Comment,O
+,aller,O
+,a,O
+,Ibiza,B-geoE
+Sentence: 993,Comment,O
+,aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 994,Comment,O
+,aller,O
+,a,O
+,Bagnolet,B-geoE
+Sentence: 995,Comment,O
+,aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 996,Comment,O
+,aller,O
+,a,O
+,Istanbul,B-geoE
+Sentence: 997,Comment,O
+,aller,O
+,a,O
+,Shanghai,B-geoE
+Sentence: 998,Comment,O
+,aller,O
+,a,O
+,Auckland,B-geoE
+Sentence: 999,Comment,O
+,aller,O
+,a,O
+,Caen,B-geoE
+Sentence: 1000,Aller,O
+,a,O
+,Reims,B-geoE
+Sentence: 1001,Aller,O
+,a,O
+,Issy-les-Moulineaux,B-geoE
+Sentence: 1002,Aller,O
+,a,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 1003,Aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 1004,Aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 1005,Aller,O
+,a,O
+,Aubervilliers,B-geoE
+Sentence: 1006,Aller,O
+,a,O
+,Vatican,B-geoE
+Sentence: 1007,Aller,O
+,a,O
+,Caen,B-geoE
+Sentence: 1008,Aller,O
+,a,O
+,Ales,B-geoE
+Sentence: 1009,Aller,O
+,a,O
+,Valence,B-geoE
+Sentence: 1010,Aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 1011,Aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 1012,Aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 1013,Aller,O
+,a,O
+,Stockholm,B-geoE
+Sentence: 1014,Aller,O
+,a,O
+,Rome,B-geoE
+Sentence: 1015,Aller,O
+,a,O
+,Amiens,B-geoE
+Sentence: 1016,Aller,O
+,a,O
+,Dreux,B-geoE
+Sentence: 1017,Aller,O
+,a,O
+,Montreuil,B-geoE
+Sentence: 1018,Aller,O
+,a,O
+,Rambouillet,B-geoE
+Sentence: 1019,Aller,O
+,a,O
+,Istres,B-geoE
+Sentence: 1020,Aller,O
+,a,O
+,Gagny,B-geoE
+Sentence: 1021,Aller,O
+,a,O
+,Bayonne,B-geoE
+Sentence: 1022,Aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 1023,Aller,O
+,a,O
+,Montpellier,B-geoE
+Sentence: 1024,Aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 1025,Aller,O
+,a,O
+,Créteil,B-geoE
+Sentence: 1026,Aller,O
+,a,O
+,Oslo,B-geoE
+Sentence: 1027,Aller,O
+,a,O
+,Aubervilliers,B-geoE
+Sentence: 1028,Aller,O
+,a,O
+,Berlin,B-geoE
+Sentence: 1029,Aller,O
+,a,O
+,Belfort,B-geoE
+Sentence: 1030,Aller,O
+,a,O
+,La Ciotat,B-geoE
+Sentence: 1031,Aller,O
+,a,O
+,Valence,B-geoE
+Sentence: 1032,Aller,O
+,a,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 1033,Aller,O
+,a,O
+,Villeneuve-d'Ascq,B-geoE
+Sentence: 1034,Aller,O
+,a,O
+,Singapour,B-geoE
+Sentence: 1035,Aller,O
+,a,O
+,Auch,B-geoE
+Sentence: 1036,Aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 1037,Aller,O
+,a,O
+,Grenoble,B-geoE
+Sentence: 1038,Aller,O
+,a,O
+,Meaux,B-geoE
+Sentence: 1039,Aller,O
+,a,O
+,Ales,B-geoE
+Sentence: 1040,Aller,O
+,a,O
+,Reims,B-geoE
+Sentence: 1041,Aller,O
+,a,O
+,Stockholm,B-geoE
+Sentence: 1042,Aller,O
+,a,O
+,Villeurbanne,B-geoE
+Sentence: 1043,Aller,O
+,a,O
+,Neuilly-sur-Seine,B-geoE
+Sentence: 1044,Aller,O
+,a,O
+,La Ciotat,B-geoE
+Sentence: 1045,Aller,O
+,a,O
+,Tournefeuille,B-geoE
+Sentence: 1046,Aller,O
+,a,O
+,Bandol,B-geoE
+Sentence: 1047,Aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 1048,Aller,O
+,a,O
+,Poitiers,B-geoE
+Sentence: 1049,Aller,O
+,a,O
+,Limoges,B-geoE
+Sentence: 1050,Aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 1051,Aller,O
+,a,O
+,Saint-Etienne,B-geoE
+Sentence: 1052,Aller,O
+,a,O
+,Dijon,B-geoE
+Sentence: 1053,Aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 1054,Aller,O
+,a,O
+,Londres,B-geoE
+Sentence: 1055,Aller,O
+,a,O
+,Villeurbanne,B-geoE
+Sentence: 1056,Aller,O
+,a,O
+,Vatican,B-geoE
+Sentence: 1057,Aller,O
+,a,O
+,Istanbul,B-geoE
+Sentence: 1058,Aller,O
+,a,O
+,Rambouillet,B-geoE
+Sentence: 1059,Aller,O
+,a,O
+,Brest,B-geoE
+Sentence: 1060,Aller,O
+,a,O
+,Saint-Denis,B-geoE
+Sentence: 1061,Aller,O
+,a,O
+,Antibes,B-geoE
+Sentence: 1062,Aller,O
+,a,O
+,Issy-les-Moulineaux,B-geoE
+Sentence: 1063,Aller,O
+,a,O
+,Poitiers,B-geoE
+Sentence: 1064,Aller,O
+,a,O
+,Marseille,B-geoE
+Sentence: 1065,Aller,O
+,a,O
+,Bordeaux,B-geoE
+Sentence: 1066,Aller,O
+,a,O
+,Charleville-Mézières,B-geoE
+Sentence: 1067,Aller,O
+,a,O
+,Pekin,B-geoE
+Sentence: 1068,Aller,O
+,a,O
+,Bergerac,B-geoE
+Sentence: 1069,Aller,O
+,a,O
+,Angers,B-geoE
+Sentence: 1070,Aller,O
+,a,O
+,Toulouse,B-geoE
+Sentence: 1071,Aller,O
+,a,O
+,Rennes,B-geoE
+Sentence: 1072,Aller,O
+,a,O
+,Tokyo,B-geoE
+Sentence: 1073,Aller,O
+,a,O
+,Pau,B-geoE
+Sentence: 1074,Aller,O
+,a,O
+,Auckland,B-geoE
+Sentence: 1075,Aller,O
+,a,O
+,Blois,B-geoE
+Sentence: 1076,Aller,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 1077,Aller,O
+,a,O
+,La Possession,B-geoE
+Sentence: 1078,Aller,O
+,a,O
+,Dreux,B-geoE
+Sentence: 1079,Aller,O
+,a,O
+,Pau,B-geoE
+Sentence: 1080,Aller,O
+,a,O
+,Vitry-sur-Seine,B-geoE
+Sentence: 1081,Aller,O
+,a,O
+,Sydney,B-geoE
+Sentence: 1082,Aller,O
+,a,O
+,Paris,B-geoE
+Sentence: 1083,Aller,O
+,a,O
+,Abbeville,B-geoE
+Sentence: 1084,Aller,O
+,a,O
+,Tourcoing,B-geoE
+Sentence: 1085,Aller,O
+,a,O
+,Arles,B-geoE
+Sentence: 1086,Aller,O
+,a,O
+,Saint-Paul,B-geoE
+Sentence: 1087,Aller,O
+,a,O
+,Bastia,B-geoE
+Sentence: 1088,Aller,O
+,a,O
+,Aurillac,B-geoE
+Sentence: 1089,Aller,O
+,a,O
+,Boulogne-Billancourt,B-geoE
+Sentence: 1090,Aller,O
+,a,O
+,Roubaix,B-geoE
+Sentence: 1091,Aller,O
+,a,O
+,Mérignac,B-geoE
+Sentence: 1092,Aller,O
+,a,O
+,Quimper,B-geoE
+Sentence: 1093,Aller,O
+,a,O
+,Bangalore,B-geoE
+Sentence: 1094,Aller,O
+,a,O
+,Lorient,B-geoE
+Sentence: 1095,Aller,O
+,a,O
+,Albi,B-geoE
+Sentence: 1096,Aller,O
+,a,O
+,Bagneux,B-geoE
+Sentence: 1097,Aller,O
+,a,O
+,Angers,B-geoE
+Sentence: 1098,Aller,O
+,a,O
+,Nantes,B-geoE
+Sentence: 1099,Aller,O
+,a,O
+,Épinay-sur-Seine,B-geoE
+Sentence: 1100,Guide,O
+,moi,O
+,vers,O
+,Villeurbanne,B-geoE
+Sentence: 1101,Guide,O
+,moi,O
+,vers,O
+,Moulins,B-geoE
+Sentence: 1102,Guide,O
+,moi,O
+,vers,O
+,Toulouse,B-geoE
+Sentence: 1103,Guide,O
+,moi,O
+,vers,O
+,Puteaux,B-geoE
+Sentence: 1104,Guide,O
+,moi,O
+,vers,O
+,Épinay-sur-Seine,B-geoE
+Sentence: 1105,Guide,O
+,moi,O
+,vers,O
+,Blois,B-geoE
+Sentence: 1106,Guide,O
+,moi,O
+,vers,O
+,Orléans,B-geoE
+Sentence: 1107,Guide,O
+,moi,O
+,vers,O
+,Grenoble,B-geoE
+Sentence: 1108,Guide,O
+,moi,O
+,vers,O
+,Vitry-sur-Seine,B-geoE
+Sentence: 1109,Guide,O
+,moi,O
+,vers,O
+,Châteauroux,B-geoE
+Sentence: 1110,Guide,O
+,moi,O
+,vers,O
+,Lima,B-geoE
+Sentence: 1111,Guide,O
+,moi,O
+,vers,O
+,Chicago,B-geoE
+Sentence: 1112,Guide,O
+,moi,O
+,vers,O
+,Mulhouse,B-geoE
+Sentence: 1113,Guide,O
+,moi,O
+,vers,O
+,Amiens,B-geoE
+Sentence: 1114,Guide,O
+,moi,O
+,vers,O
+,Reims,B-geoE
+Sentence: 1115,Guide,O
+,moi,O
+,vers,O
+,Valence,B-geoE
+Sentence: 1116,Guide,O
+,moi,O
+,vers,O
+,Orléans,B-geoE
+Sentence: 1117,Guide,O
+,moi,O
+,vers,O
+,Nanterre,B-geoE
+Sentence: 1118,Guide,O
+,moi,O
+,vers,O
+,Orléans,B-geoE
+Sentence: 1119,Guide,O
+,moi,O
+,vers,O
+,Créteil,B-geoE
+Sentence: 1120,Guide,O
+,moi,O
+,vers,O
+,Marseille,B-geoE
+Sentence: 1121,Guide,O
+,moi,O
+,vers,O
+,Rome,B-geoE
+Sentence: 1122,Guide,O
+,moi,O
+,vers,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 1123,Guide,O
+,moi,O
+,vers,O
+,Haguenau,B-geoE
+Sentence: 1124,Guide,O
+,moi,O
+,vers,O
+,Dijon,B-geoE
+Sentence: 1125,Guide,O
+,moi,O
+,vers,O
+,Bondy,B-geoE
+Sentence: 1126,Guide,O
+,moi,O
+,vers,O
+,Arras,B-geoE
+Sentence: 1127,Guide,O
+,moi,O
+,vers,O
+,Annemasse,B-geoE
+Sentence: 1128,Guide,O
+,moi,O
+,vers,O
+,Quimper,B-geoE
+Sentence: 1129,Guide,O
+,moi,O
+,vers,O
+,Rennes,B-geoE
+Sentence: 1130,Guide,O
+,moi,O
+,vers,O
+,Istanbul,B-geoE
+Sentence: 1131,Guide,O
+,moi,O
+,vers,O
+,Lima,B-geoE
+Sentence: 1132,Guide,O
+,moi,O
+,vers,O
+,Alpes-Maritimes,B-geoE
+Sentence: 1133,Guide,O
+,moi,O
+,vers,O
+,Sartrouville,B-geoE
+Sentence: 1134,Guide,O
+,moi,O
+,vers,O
+,Angoulême,B-geoE
+Sentence: 1135,Guide,O
+,moi,O
+,vers,O
+,Annecy,B-geoE
+Sentence: 1136,Guide,O
+,moi,O
+,vers,O
+,Metz,B-geoE
+Sentence: 1137,Guide,O
+,moi,O
+,vers,O
+,Metz,B-geoE
+Sentence: 1138,Guide,O
+,moi,O
+,vers,O
+,Saint-Maur-des-Fossés,B-geoE
+Sentence: 1139,Guide,O
+,moi,O
+,vers,O
+,Dijon,B-geoE
+Sentence: 1140,Guide,O
+,moi,O
+,vers,O
+,Quimper,B-geoE
+Sentence: 1141,Guide,O
+,moi,O
+,vers,O
+,Amiens,B-geoE
+Sentence: 1142,Guide,O
+,moi,O
+,vers,O
+,Moscou,B-geoE
+Sentence: 1143,Guide,O
+,moi,O
+,vers,O
+,Lille,B-geoE
+Sentence: 1144,Guide,O
+,moi,O
+,vers,O
+,La Possession,B-geoE
+Sentence: 1145,Guide,O
+,moi,O
+,vers,O
+,Aix-en-Provence,B-geoE
+Sentence: 1146,Guide,O
+,moi,O
+,vers,O
+,Strasbourg,B-geoE
+Sentence: 1147,Guide,O
+,moi,O
+,vers,O
+,Antibes,B-geoE
+Sentence: 1148,Guide,O
+,moi,O
+,vers,O
+,Asnières-sur-Seine,B-geoE
+Sentence: 1149,Guide,O
+,moi,O
+,vers,O
+,Toulouse,B-geoE
+Sentence: 1150,Guide,O
+,moi,O
+,vers,O
+,Arles,B-geoE
+Sentence: 1151,Guide,O
+,moi,O
+,vers,O
+,Albi,B-geoE
+Sentence: 1152,Guide,O
+,moi,O
+,vers,O
+,Tournefeuille,B-geoE
+Sentence: 1153,Guide,O
+,moi,O
+,vers,O
+,Yerres,B-geoE
+Sentence: 1154,Guide,O
+,moi,O
+,vers,O
+,Charleville-Mézières,B-geoE
+Sentence: 1155,Guide,O
+,moi,O
+,vers,O
+,Vannes,B-geoE
+Sentence: 1156,Guide,O
+,moi,O
+,vers,O
+,Cotonou,B-geoE
+Sentence: 1157,Guide,O
+,moi,O
+,vers,O
+,Troyes,B-geoE
+Sentence: 1158,Guide,O
+,moi,O
+,vers,O
+,Béthune,B-geoE
+Sentence: 1159,Guide,O
+,moi,O
+,vers,O
+,Roubaix,B-geoE
+Sentence: 1160,Guide,O
+,moi,O
+,vers,O
+,Singapour,B-geoE
+Sentence: 1161,Guide,O
+,moi,O
+,vers,O
+,Abbeville,B-geoE
+Sentence: 1162,Guide,O
+,moi,O
+,vers,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 1163,Guide,O
+,moi,O
+,vers,O
+,Arles,B-geoE
+Sentence: 1164,Guide,O
+,moi,O
+,vers,O
+,Aurillac,B-geoE
+Sentence: 1165,Guide,O
+,moi,O
+,vers,O
+,Stockholm,B-geoE
+Sentence: 1166,Guide,O
+,moi,O
+,vers,O
+,Dijon,B-geoE
+Sentence: 1167,Guide,O
+,moi,O
+,vers,O
+,Montpellier,B-geoE
+Sentence: 1168,Guide,O
+,moi,O
+,vers,O
+,Rome,B-geoE
+Sentence: 1169,Guide,O
+,moi,O
+,vers,O
+,Istanbul,B-geoE
+Sentence: 1170,Guide,O
+,moi,O
+,vers,O
+,Chicago,B-geoE
+Sentence: 1171,Guide,O
+,moi,O
+,vers,O
+,Annemasse,B-geoE
+Sentence: 1172,Guide,O
+,moi,O
+,vers,O
+,Nantes,B-geoE
+Sentence: 1173,Guide,O
+,moi,O
+,vers,O
+,Nancy,B-geoE
+Sentence: 1174,Guide,O
+,moi,O
+,vers,O
+,Dijon,B-geoE
+Sentence: 1175,Guide,O
+,moi,O
+,vers,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 1176,Guide,O
+,moi,O
+,vers,O
+,Sartrouville,B-geoE
+Sentence: 1177,Guide,O
+,moi,O
+,vers,O
+,Metz,B-geoE
+Sentence: 1178,Guide,O
+,moi,O
+,vers,O
+,Ajaccio,B-geoE
+Sentence: 1179,Guide,O
+,moi,O
+,vers,O
+,Angoulême,B-geoE
+Sentence: 1180,Guide,O
+,moi,O
+,vers,O
+,Nantes,B-geoE
+Sentence: 1181,Guide,O
+,moi,O
+,vers,O
+,Sartrouville,B-geoE
+Sentence: 1182,Guide,O
+,moi,O
+,vers,O
+,Vatican,B-geoE
+Sentence: 1183,Guide,O
+,moi,O
+,vers,O
+,Marseille,B-geoE
+Sentence: 1184,Guide,O
+,moi,O
+,vers,O
+,Mulhouse,B-geoE
+Sentence: 1185,Guide,O
+,moi,O
+,vers,O
+,Annemasse,B-geoE
+Sentence: 1186,Guide,O
+,moi,O
+,vers,O
+,Nantes,B-geoE
+Sentence: 1187,Guide,O
+,moi,O
+,vers,O
+,Albertville,B-geoE
+Sentence: 1188,Guide,O
+,moi,O
+,vers,O
+,Toulouse,B-geoE
+Sentence: 1189,Guide,O
+,moi,O
+,vers,O
+,Blois,B-geoE
+Sentence: 1190,Guide,O
+,moi,O
+,vers,O
+,Tokyo,B-geoE
+Sentence: 1191,Guide,O
+,moi,O
+,vers,O
+,Villeneuve-Saint-Georges,B-geoE
+Sentence: 1192,Guide,O
+,moi,O
+,vers,O
+,Stockholm,B-geoE
+Sentence: 1193,Guide,O
+,moi,O
+,vers,O
+,Bangalore,B-geoE
+Sentence: 1194,Guide,O
+,moi,O
+,vers,O
+,Bobigny,B-geoE
+Sentence: 1195,Guide,O
+,moi,O
+,vers,O
+,Angers,B-geoE
+Sentence: 1196,Guide,O
+,moi,O
+,vers,O
+,Colmar,B-geoE
+Sentence: 1197,Guide,O
+,moi,O
+,vers,O
+,Allonnes,B-geoE
+Sentence: 1198,Guide,O
+,moi,O
+,vers,O
+,Auxerre,B-geoE
+Sentence: 1199,Guide,O
+,moi,O
+,vers,O
+,Palaiseau,B-geoE
+Sentence: 1200,Rejoindre,O
+,Bagnolet,B-geoE
+Sentence: 1201,Rejoindre,O
+,Bobigny,B-geoE
+Sentence: 1202,Rejoindre,O
+,Arles,B-geoE
+Sentence: 1203,Rejoindre,O
+,Angers,B-geoE
+Sentence: 1204,Rejoindre,O
+,Fréjus,B-geoE
+Sentence: 1205,Rejoindre,O
+,Zurich,B-geoE
+Sentence: 1206,Rejoindre,O
+,Londres,B-geoE
+Sentence: 1207,Rejoindre,O
+,Cotonou,B-geoE
+Sentence: 1208,Rejoindre,O
+,Saint-Maur-des-Fossés,B-geoE
+Sentence: 1209,Rejoindre,O
+,Colombes,B-geoE
+Sentence: 1210,Rejoindre,O
+,Montreuil,B-geoE
+Sentence: 1211,Rejoindre,O
+,Moulins,B-geoE
+Sentence: 1212,Rejoindre,O
+,Annecy,B-geoE
+Sentence: 1213,Rejoindre,O
+,Champigny-sur-Marne,B-geoE
+Sentence: 1214,Rejoindre,O
+,Dijon,B-geoE
+Sentence: 1215,Rejoindre,O
+,Istanbul,B-geoE
+Sentence: 1216,Rejoindre,O
+,Colombes,B-geoE
+Sentence: 1217,Rejoindre,O
+,Béziers,B-geoE
+Sentence: 1218,Rejoindre,O
+,Aix-en-Provence,B-geoE
+Sentence: 1219,Rejoindre,O
+,Bordeaux,B-geoE
+Sentence: 1220,Rejoindre,O
+,Limoges,B-geoE
+Sentence: 1221,Rejoindre,O
+,Vitry-sur-Seine,B-geoE
+Sentence: 1222,Rejoindre,O
+,Saint-Paul,B-geoE
+Sentence: 1223,Rejoindre,O
+,Sartrouville,B-geoE
+Sentence: 1224,Rejoindre,O
+,Amiens,B-geoE
+Sentence: 1225,Rejoindre,O
+,Autun,B-geoE
+Sentence: 1226,Rejoindre,O
+,Reims,B-geoE
+Sentence: 1227,Rejoindre,O
+,Bandol,B-geoE
+Sentence: 1228,Rejoindre,O
+,Aubervilliers,B-geoE
+Sentence: 1229,Rejoindre,O
+,Béthune,B-geoE
+Sentence: 1230,Rejoindre,O
+,Strasbourg,B-geoE
+Sentence: 1231,Rejoindre,O
+,Tournefeuille,B-geoE
+Sentence: 1232,Rejoindre,O
+,Lima,B-geoE
+Sentence: 1233,Rejoindre,O
+,Madrid,B-geoE
+Sentence: 1234,Rejoindre,O
+,Nîmes,B-geoE
+Sentence: 1235,Rejoindre,O
+,Limoges,B-geoE
+Sentence: 1236,Rejoindre,O
+,Albertville,B-geoE
+Sentence: 1237,Rejoindre,O
+,Lille,B-geoE
+Sentence: 1238,Rejoindre,O
+,Athenes,B-geoE
+Sentence: 1239,Rejoindre,O
+,Puteaux,B-geoE
+Sentence: 1240,Rejoindre,O
+,Palaiseau,B-geoE
+Sentence: 1241,Rejoindre,O
+,Istanbul,B-geoE
+Sentence: 1242,Rejoindre,O
+,Toronto,B-geoE
+Sentence: 1243,Rejoindre,O
+,Londres,B-geoE
+Sentence: 1244,Rejoindre,O
+,Meaux,B-geoE
+Sentence: 1245,Rejoindre,O
+,Lille,B-geoE
+Sentence: 1246,Rejoindre,O
+,Ibiza,B-geoE
+Sentence: 1247,Rejoindre,O
+,Auxerre,B-geoE
+Sentence: 1248,Rejoindre,O
+,Dublin,B-geoE
+Sentence: 1249,Rejoindre,O
+,La Ciotat,B-geoE
+Sentence: 1250,Rejoindre,O
+,Orléans,B-geoE
+Sentence: 1251,Rejoindre,O
+,Allonnes,B-geoE
+Sentence: 1252,Rejoindre,O
+,Avignon,B-geoE
+Sentence: 1253,Rejoindre,O
+,Arles,B-geoE
+Sentence: 1254,Rejoindre,O
+,Châteauroux,B-geoE
+Sentence: 1255,Rejoindre,O
+,Belfort,B-geoE
+Sentence: 1256,Rejoindre,O
+,Autun,B-geoE
+Sentence: 1257,Rejoindre,O
+,Bordeaux,B-geoE
+Sentence: 1258,Rejoindre,O
+,Angers,B-geoE
+Sentence: 1259,Rejoindre,O
+,Alpes-Maritimes,B-geoE
+Sentence: 1260,Rejoindre,O
+,Meaux,B-geoE
+Sentence: 1261,Rejoindre,O
+,Besançon,B-geoE
+Sentence: 1262,Rejoindre,O
+,Maisons-Alfort,B-geoE
+Sentence: 1263,Rejoindre,O
+,Pau,B-geoE
+Sentence: 1264,Rejoindre,O
+,Istres,B-geoE
+Sentence: 1265,Rejoindre,O
+,Nîmes,B-geoE
+Sentence: 1266,Rejoindre,O
+,Tournefeuille,B-geoE
+Sentence: 1267,Rejoindre,O
+,Dunkerque,B-geoE
+Sentence: 1268,Rejoindre,O
+,Nanterre,B-geoE
+Sentence: 1269,Rejoindre,O
+,Arles,B-geoE
+Sentence: 1270,Rejoindre,O
+,Montpellier,B-geoE
+Sentence: 1271,Rejoindre,O
+,Lille,B-geoE
+Sentence: 1272,Rejoindre,O
+,Barcelone,B-geoE
+Sentence: 1273,Rejoindre,O
+,Tourcoing,B-geoE
+Sentence: 1274,Rejoindre,O
+,Angers,B-geoE
+Sentence: 1275,Rejoindre,O
+,Madrid,B-geoE
+Sentence: 1276,Rejoindre,O
+,Brest,B-geoE
+Sentence: 1277,Rejoindre,O
+,Colombes,B-geoE
+Sentence: 1278,Rejoindre,O
+,Bondy,B-geoE
+Sentence: 1279,Rejoindre,O
+,Thonon-les-Bains,B-geoE
+Sentence: 1280,Rejoindre,O
+,Toronto,B-geoE
+Sentence: 1281,Rejoindre,O
+,Bagnolet,B-geoE
+Sentence: 1282,Rejoindre,O
+,Dublin,B-geoE
+Sentence: 1283,Rejoindre,O
+,Berlin,B-geoE
+Sentence: 1284,Rejoindre,O
+,Rome,B-geoE
+Sentence: 1285,Rejoindre,O
+,Shanghai,B-geoE
+Sentence: 1286,Rejoindre,O
+,Aurillac,B-geoE
+Sentence: 1287,Rejoindre,O
+,Bobigny,B-geoE
+Sentence: 1288,Rejoindre,O
+,Tourcoing,B-geoE
+Sentence: 1289,Rejoindre,O
+,Allonnes,B-geoE
+Sentence: 1290,Rejoindre,O
+,Perpignan,B-geoE
+Sentence: 1291,Rejoindre,O
+,Perpignan,B-geoE
+Sentence: 1292,Rejoindre,O
+,Dublin,B-geoE
+Sentence: 1293,Rejoindre,O
+,Bagnolet,B-geoE
+Sentence: 1294,Rejoindre,O
+,Beziers,B-geoE
+Sentence: 1295,Rejoindre,O
+,Oslo,B-geoE
+Sentence: 1296,Rejoindre,O
+,Aulnay-sous-Bois,B-geoE
+Sentence: 1297,Rejoindre,O
+,Colombes,B-geoE
+Sentence: 1298,Rejoindre,O
+,Albi,B-geoE
+Sentence: 1299,Rejoindre,O
+,Thonon-les-Bains,B-geoE

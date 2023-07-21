@@ -1,0 +1,70 @@
+version: '3'
+services:
+  front:
+    build:
+      context: ./front_container
+    ports:
+      - 80:80
+    volumes:
+      - ./front_container:/usr/share/nginx/html
+    container_name: front_service
+  graph:
+    build:
+      context: ./graph_container
+    ports:
+<<<<<<< HEAD
+      - 8001:5001
+=======
+      - 8001:8001
+>>>>>>> docker
+    volumes:
+      - ./graph_container:/graph
+    container_name: graph_service
+  # speech:
+  #   build:
+  #     context: ./speech_container
+  #   ports:
+  #     - 8002:8002
+  #   volumes:
+  #     - ./speech_container:/speech
+  #   container_name: speech_service
+  ner:
+    build:
+      context: ./ner_container
+    ports:
+      - 5001:5001
+    volumes:
+      - ./ner_container:/ner
+    container_name: ner_service
+  db:
+    container_name: db
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password --character-set-server=utf8 --collation-server=utf8_general_ci
+    environment:
+      MYSQL_ROOT_PASSWORD: pass
+      MYSQL_DATABASE: ia
+      MYSQL_USER: ia
+      MYSQL_PASSWORD: pass
+    ports:
+    - 3306:3306
+    volumes: 
+      - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+  phpmya:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadmin
+    environment:
+      PMA_ARBITRARY: 1
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: pass
+      UPLOAD_LIMIT: 20M
+    ports:
+    - 8899:80
+  back:
+    build:
+      context: ./back_container
+    ports:
+      - 3001:3001
+    volumes:
+      - ./back_container:/back
+    container_name: back_service
